@@ -1,5 +1,3 @@
-// import type { VercelRequest, VercelResponse } from '@vercel/node';
-// import "../json-langs/german_lev_1.json" as
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
