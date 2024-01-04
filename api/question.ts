@@ -4,8 +4,8 @@ import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
     try {
-        const response = await fetch('../json-langs/german_lev_1.json');
-
+        const filePath = path.join(__dirname, '..', 'json-langs', 'german_lev_1.json');
+        const response = await fetch(`file://${filePath}`);
         if (!response.ok) {
             throw new Error(`Failed to fetch data: ${response.statusText}`);
         }
