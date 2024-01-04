@@ -11,6 +11,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
             case 'de': return res.json(germanData)
             case 'es': return res.json(spanishData)
             case 'ko': return res.json(koreanData )
+            default: return res.status(400).send({
+                message:'This is an error!'
+            })
         }
 
     } catch (error) {
