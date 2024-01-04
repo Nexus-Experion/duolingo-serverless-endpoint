@@ -1,4 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
+// import "../json-langs/german_lev_1.json" as
+// import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
     try {
@@ -11,7 +13,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         const data = await response.json();
         return res.json(data);
     } catch (error) {
-        console.error('Error:', error.message);
-        return res.status(500).json({ error: 'Internal Server Error' });
+        console.error('Error:', error);
+
+        // Send a more detailed error response
+        return res.status(500).json({ error: 'Internal Server Error', details: error.message });
     }
 }
