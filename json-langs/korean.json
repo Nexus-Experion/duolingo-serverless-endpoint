@@ -1,0 +1,1926 @@
+{
+    "id": "Gh7uXEyK9JBRiz5t",
+    "learningLanguage": "ko",
+    "fromLanguage": "en",
+    "type": "LESSON",
+    "challenges": [
+        {
+            "prompt": "어",
+            "choices": [
+                "deo",
+                "du",
+                "eo"
+            ],
+            "correctIndex": 2,
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131",
+            "type": "characterIntro",
+            "id": "e61dd824a40b4551a89124d7d3fd26a3",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 7202.241808473891,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.87442,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.87442,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 7202.241808473891,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 2,
+                "solution_key": "4ed12bd7fbaf821182a32a1822971ce3",
+                "source_language": "ko",
+                "text": "어",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131",
+                "specific_type": "character_intro",
+                "lexeme_ids_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "learning_language": "ko",
+                "type": "character_intro",
+                "lexemes_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_intro",
+                "generatorId": "f7d6df69e7fcfb91cc02c11f2107af93"
+            }
+        },
+        {
+            "pairs": [
+                {
+                    "transliteration": "deo",
+                    "character": "더",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "transliteration": "du",
+                    "character": "두",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "transliteration": "eo",
+                    "character": "어",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                },
+                {
+                    "transliteration": "ga",
+                    "character": "가",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/3bac82ec7cc86132e02d87637e82d315"
+                },
+                {
+                    "transliteration": "nu",
+                    "character": "누",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                }
+            ],
+            "type": "characterMatch",
+            "id": "025e3ce4366e4aa4ac5949ac7866086d",
+            "challengeResponseTrackingProperties": {
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "level_session_index": 1,
+                "is_adaptive": false,
+                "cefr_subsection": "",
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "is_v2": true,
+                "birdbrain_probability": 0.82986164,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.82986164,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "pairs": [
+                    {
+                        "transliteration": "deo",
+                        "learning_character": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "transliteration": "du",
+                        "learning_character": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "transliteration": "eo",
+                        "learning_character": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "transliteration": "ga",
+                        "learning_character": "가",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/3bac82ec7cc86132e02d87637e82d315"
+                    },
+                    {
+                        "transliteration": "nu",
+                        "learning_character": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    }
+                ],
+                "solution_key": "4ed12bd7fbaf821182a32a1822971ce3",
+                "source_language": "ko",
+                "specific_type": "character_match",
+                "lexeme_ids_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "learning_language": "ko",
+                "type": "character_match",
+                "lexemes_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_match",
+                "generatorId": "f7d6df69e7fcfb91cc02c11f2107af93"
+            }
+        },
+        {
+            "prompt": "eo",
+            "choices": [
+                {
+                    "character": "두",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "character": "어",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                },
+                {
+                    "character": "우",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                },
+                {
+                    "character": "누",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                }
+            ],
+            "correctIndex": 1,
+            "type": "characterSelect",
+            "id": "232587ad831d409bae8106b5ed2ff8d3",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 6253.600732964976,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.6259132,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.6259132,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 6253.600732964976,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 1,
+                "options_with_tts": [
+                    {
+                        "text": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "text": "우",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                    },
+                    {
+                        "text": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    }
+                ],
+                "solution_key": "4ed12bd7fbaf821182a32a1822971ce3",
+                "source_language": "ko",
+                "transliteration": "eo",
+                "specific_type": "character_select",
+                "lexeme_ids_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "learning_language": "ko",
+                "type": "character_select",
+                "lexemes_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_select",
+                "generatorId": "f7d6df69e7fcfb91cc02c11f2107af93"
+            }
+        },
+        {
+            "choices": [
+                {
+                    "text": "du",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "text": "nu",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                },
+                {
+                    "text": "deo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "text": "eo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                }
+            ],
+            "correctIndex": 3,
+            "type": "selectPronunciation",
+            "id": "cd3e6d62713648d68bda12c2e242ff08",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 4014.0791879359394,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.9330223,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.9330223,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 4014.0791879359394,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "choices": [
+                    {
+                        "text": "du",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "nu",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "text": "deo",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "text": "eo",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    }
+                ],
+                "correct_index": 3,
+                "solution_key": "4ed12bd7fbaf821182a32a1822971ce3",
+                "source_language": "ko",
+                "specific_type": "select_pronunciation",
+                "lexeme_ids_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "learning_language": "ko",
+                "type": "select_pronunciation",
+                "lexemes_to_update": [
+                    "4ed12bd7fbaf821182a32a1822971ce3"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "select_pronunciation",
+                "generatorId": "f7d6df69e7fcfb91cc02c11f2107af93"
+            }
+        },
+        {
+            "prompt": "두",
+            "choices": [
+                "eo",
+                "du",
+                "deo"
+            ],
+            "correctIndex": 1,
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b",
+            "type": "characterIntro",
+            "id": "26fb51025c57447895fd6b10e224b233",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 5188.502357059523,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.7618847,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.7618847,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 5188.502357059523,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 1,
+                "solution_key": "092b17e4d29995a4c39d3f196e1c6b31",
+                "source_language": "ko",
+                "text": "두",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b",
+                "specific_type": "character_intro",
+                "lexeme_ids_to_update": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ],
+                "learning_language": "ko",
+                "type": "character_intro",
+                "lexemes_to_update": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_intro",
+                "generatorId": "955dca681fcf79bd0bcc431d75383ee7"
+            }
+        },
+        {
+            "prompt": "du",
+            "choices": [
+                {
+                    "character": "두",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "character": "어",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                },
+                {
+                    "character": "더",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "character": "누",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                }
+            ],
+            "correctIndex": 0,
+            "type": "characterSelect",
+            "id": "d25a7f74dcc6489e9740f55d1a1c43f0",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 5807.186327436416,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.67909664,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.67909664,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 5807.186327436416,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 0,
+                "options_with_tts": [
+                    {
+                        "text": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "text": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "text": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    }
+                ],
+                "solution_key": "092b17e4d29995a4c39d3f196e1c6b31",
+                "source_language": "ko",
+                "transliteration": "du",
+                "specific_type": "character_select",
+                "lexeme_ids_to_update": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ],
+                "learning_language": "ko",
+                "type": "character_select",
+                "lexemes_to_update": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_select",
+                "generatorId": "955dca681fcf79bd0bcc431d75383ee7"
+            }
+        },
+        {
+            "choices": [
+                {
+                    "text": "deo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "text": "eo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                },
+                {
+                    "text": "nu",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                },
+                {
+                    "text": "du",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                }
+            ],
+            "correctIndex": 3,
+            "type": "selectPronunciation",
+            "id": "d7214f9ce47e4deab51d706aeb656f6b",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 4273.336284441573,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.8617469,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.8617469,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 4273.336284441573,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "choices": [
+                    {
+                        "text": "deo",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "text": "eo",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "text": "nu",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "text": "du",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    }
+                ],
+                "correct_index": 3,
+                "solution_key": "092b17e4d29995a4c39d3f196e1c6b31",
+                "source_language": "ko",
+                "specific_type": "select_pronunciation",
+                "lexeme_ids_to_update": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ],
+                "learning_language": "ko",
+                "type": "select_pronunciation",
+                "lexemes_to_update": [
+                    "092b17e4d29995a4c39d3f196e1c6b31"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "select_pronunciation",
+                "generatorId": "955dca681fcf79bd0bcc431d75383ee7"
+            }
+        },
+        {
+            "prompt": "우",
+            "choices": [
+                "eo",
+                "deo",
+                "u"
+            ],
+            "correctIndex": 2,
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2",
+            "type": "characterIntro",
+            "id": "4d5900c06966454096db66764ae721e7",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 4549.579445055928,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.7493927,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.7493927,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 4549.579445055928,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 2,
+                "solution_key": "21cc62ca4e4967bdedf74d427d739960",
+                "source_language": "ko",
+                "text": "우",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2",
+                "specific_type": "character_intro",
+                "lexeme_ids_to_update": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ],
+                "learning_language": "ko",
+                "type": "character_intro",
+                "lexemes_to_update": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_intro",
+                "generatorId": "eff89883e6d1617f3fa57f7b974bff9a"
+            }
+        },
+        {
+            "prompt": "u",
+            "choices": [
+                {
+                    "character": "우",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                },
+                {
+                    "character": "누",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                },
+                {
+                    "character": "두",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "character": "어",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                }
+            ],
+            "correctIndex": 0,
+            "type": "characterSelect",
+            "id": "242679a42c56461280336cac63de1fee",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 5558.9716271031875,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.8236854,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.8236854,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 5558.9716271031875,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 0,
+                "options_with_tts": [
+                    {
+                        "text": "우",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                    },
+                    {
+                        "text": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "text": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    }
+                ],
+                "solution_key": "21cc62ca4e4967bdedf74d427d739960",
+                "source_language": "ko",
+                "transliteration": "u",
+                "specific_type": "character_select",
+                "lexeme_ids_to_update": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ],
+                "learning_language": "ko",
+                "type": "character_select",
+                "lexemes_to_update": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_select",
+                "generatorId": "eff89883e6d1617f3fa57f7b974bff9a"
+            }
+        },
+        {
+            "choices": [
+                {
+                    "text": "u",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                },
+                {
+                    "text": "du",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "text": "nu",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                },
+                {
+                    "text": "deo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                }
+            ],
+            "correctIndex": 0,
+            "type": "selectPronunciation",
+            "id": "aa5bcecacefd4ab5b4ba678ba752845a",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 3626.1255379751624,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.89221007,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.89221007,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 3626.1255379751624,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "choices": [
+                    {
+                        "text": "u",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                    },
+                    {
+                        "text": "du",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "nu",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "text": "deo",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    }
+                ],
+                "correct_index": 0,
+                "solution_key": "21cc62ca4e4967bdedf74d427d739960",
+                "source_language": "ko",
+                "specific_type": "select_pronunciation",
+                "lexeme_ids_to_update": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ],
+                "learning_language": "ko",
+                "type": "select_pronunciation",
+                "lexemes_to_update": [
+                    "21cc62ca4e4967bdedf74d427d739960"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "select_pronunciation",
+                "generatorId": "eff89883e6d1617f3fa57f7b974bff9a"
+            }
+        },
+        {
+            "prompt": "더",
+            "choices": [
+                "deo",
+                "nu",
+                "du"
+            ],
+            "correctIndex": 0,
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139",
+            "type": "characterIntro",
+            "id": "19b6a31397a049afab8fbc4711afea8e",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 5251.973062527706,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.6560467,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.6560467,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 5251.973062527706,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 0,
+                "solution_key": "f38081afdf75c0d6c0f50fe70d31efa2",
+                "source_language": "ko",
+                "text": "더",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139",
+                "specific_type": "character_intro",
+                "lexeme_ids_to_update": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ],
+                "learning_language": "ko",
+                "type": "character_intro",
+                "lexemes_to_update": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_intro",
+                "generatorId": "dcb1e7514bace47ec0bb2ac008550259"
+            }
+        },
+        {
+            "pairs": [
+                {
+                    "transliteration": "eo",
+                    "character": "어",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                },
+                {
+                    "transliteration": "o",
+                    "character": "오",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/f0f4e9c1c2d19f134535f7114e72f115"
+                },
+                {
+                    "transliteration": "deo",
+                    "character": "더",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "transliteration": "nu",
+                    "character": "누",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                },
+                {
+                    "transliteration": "du",
+                    "character": "두",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                }
+            ],
+            "type": "characterMatch",
+            "id": "98aa19cd21f244c2aecd568727cd048a",
+            "challengeResponseTrackingProperties": {
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "level_session_index": 1,
+                "is_adaptive": false,
+                "cefr_subsection": "",
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "is_v2": true,
+                "birdbrain_probability": 0.8131302,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.8131302,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "pairs": [
+                    {
+                        "transliteration": "eo",
+                        "learning_character": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "transliteration": "o",
+                        "learning_character": "오",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/f0f4e9c1c2d19f134535f7114e72f115"
+                    },
+                    {
+                        "transliteration": "deo",
+                        "learning_character": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "transliteration": "nu",
+                        "learning_character": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "transliteration": "du",
+                        "learning_character": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    }
+                ],
+                "solution_key": "f38081afdf75c0d6c0f50fe70d31efa2",
+                "source_language": "ko",
+                "specific_type": "character_match",
+                "lexeme_ids_to_update": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ],
+                "learning_language": "ko",
+                "type": "character_match",
+                "lexemes_to_update": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_match",
+                "generatorId": "dcb1e7514bace47ec0bb2ac008550259"
+            }
+        },
+        {
+            "choices": [
+                {
+                    "text": "du",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "text": "eo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                },
+                {
+                    "text": "deo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "text": "nu",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                }
+            ],
+            "correctIndex": 2,
+            "type": "selectPronunciation",
+            "id": "e4cf5b81e9b14869b55baa9e865ea75e",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 4397.625066313014,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.8510977,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.8510977,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 4397.625066313014,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "choices": [
+                    {
+                        "text": "du",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "eo",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "text": "deo",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "text": "nu",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    }
+                ],
+                "correct_index": 2,
+                "solution_key": "f38081afdf75c0d6c0f50fe70d31efa2",
+                "source_language": "ko",
+                "specific_type": "select_pronunciation",
+                "lexeme_ids_to_update": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ],
+                "learning_language": "ko",
+                "type": "select_pronunciation",
+                "lexemes_to_update": [
+                    "f38081afdf75c0d6c0f50fe70d31efa2"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "select_pronunciation",
+                "generatorId": "dcb1e7514bace47ec0bb2ac008550259"
+            }
+        },
+        {
+            "prompt": "누",
+            "choices": [
+                "deo",
+                "nu",
+                "du"
+            ],
+            "correctIndex": 1,
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6",
+            "type": "characterIntro",
+            "id": "4bf428f45efc4ff289634a12fb7e4bce",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 4950.43855600341,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.20993967,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "9631d585679ba99597b317acca570fc1"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.20993967,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 4950.43855600341,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 1,
+                "solution_key": "9631d585679ba99597b317acca570fc1",
+                "source_language": "ko",
+                "text": "누",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6",
+                "specific_type": "character_intro",
+                "lexeme_ids_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "learning_language": "ko",
+                "type": "character_intro",
+                "lexemes_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_intro",
+                "generatorId": "79248e3a4810eed9d40536a068a894fa"
+            }
+        },
+        {
+            "prompt": "nu",
+            "choices": [
+                {
+                    "character": "더",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "character": "두",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "character": "우",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                },
+                {
+                    "character": "누",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                }
+            ],
+            "correctIndex": 3,
+            "type": "characterSelect",
+            "id": "624afdd1c3224306b6545492d57d63be",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 6510.556219813037,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.71060246,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "9631d585679ba99597b317acca570fc1"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.71060246,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 6510.556219813037,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 3,
+                "options_with_tts": [
+                    {
+                        "text": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "text": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "우",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                    },
+                    {
+                        "text": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    }
+                ],
+                "solution_key": "9631d585679ba99597b317acca570fc1",
+                "source_language": "ko",
+                "transliteration": "nu",
+                "specific_type": "character_select",
+                "lexeme_ids_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "learning_language": "ko",
+                "type": "character_select",
+                "lexemes_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_select",
+                "generatorId": "79248e3a4810eed9d40536a068a894fa"
+            }
+        }
+    ],
+    "easierAdaptiveChallenges": [
+        {
+            "prompt": "누",
+            "choices": [
+                "deo",
+                "du",
+                "nu"
+            ],
+            "correctIndex": 2,
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6",
+            "type": "characterIntro",
+            "id": "62b3be83f3ae48eab55cc439911a6b92",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 4950.43855600341,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.20993967,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "9631d585679ba99597b317acca570fc1"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.20993967,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 4950.43855600341,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 2,
+                "indicator_type": {
+                    "name": "EASY_CHALLENGE"
+                },
+                "solution_key": "9631d585679ba99597b317acca570fc1",
+                "source_language": "ko",
+                "text": "누",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6",
+                "specific_type": "character_intro",
+                "lexeme_ids_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "learning_language": "ko",
+                "type": "character_intro",
+                "lexemes_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_intro",
+                "generatorId": "79248e3a4810eed9d40536a068a894fa"
+            },
+            "indicatorType": "EASY_CHALLENGE"
+        },
+        {
+            "prompt": "nu",
+            "choices": [
+                {
+                    "character": "두",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                },
+                {
+                    "character": "더",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                },
+                {
+                    "character": "누",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                },
+                {
+                    "character": "우",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                }
+            ],
+            "correctIndex": 2,
+            "type": "characterSelect",
+            "id": "dc16cd4ded304e3d881f77dfd59aba8f",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 1,
+                "cefr_subsection": "",
+                "is_v2": true,
+                "predicted_time_taken": 6510.556219813037,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_UNKNOWN",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1704351507862,
+                "session_type": "lesson",
+                "birdbrain_probability": 0.71060246,
+                "content_length": 1.0,
+                "tagged_kc_ids": [
+                    "9631d585679ba99597b317acca570fc1"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.71060246,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 1,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 6510.556219813037,
+                    "cefr_level": "CEFR_UNKNOWN",
+                    "cefr_subsection": ""
+                },
+                "correct_option_index": 2,
+                "indicator_type": {
+                    "name": "EASY_CHALLENGE"
+                },
+                "options_with_tts": [
+                    {
+                        "text": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "text": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "text": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "text": "우",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                    }
+                ],
+                "solution_key": "9631d585679ba99597b317acca570fc1",
+                "source_language": "ko",
+                "transliteration": "nu",
+                "specific_type": "character_select",
+                "lexeme_ids_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "learning_language": "ko",
+                "type": "character_select",
+                "lexemes_to_update": [
+                    "9631d585679ba99597b317acca570fc1"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "character_select",
+                "generatorId": "79248e3a4810eed9d40536a068a894fa"
+            },
+            "indicatorType": "EASY_CHALLENGE"
+        }
+    ],
+    "mistakesReplacementChallenges": [],
+    "adaptiveInterleavedChallenges": {
+        "challenges": [
+            {
+                "prompt": "deo",
+                "choices": [
+                    {
+                        "character": "우",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                    },
+                    {
+                        "character": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "character": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "character": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    }
+                ],
+                "correctIndex": 2,
+                "type": "characterSelect",
+                "id": "10c104f60baf4d53bf527bbc5142072e",
+                "challengeResponseTrackingProperties": {
+                    "path_uses_unit_vision": false,
+                    "level_session_index": 1,
+                    "generation_timestamp": 1704351507862,
+                    "session_type": "lesson",
+                    "is_v2": true,
+                    "tagged_kc_ids": [
+                        "f38081afdf75c0d6c0f50fe70d31efa2"
+                    ]
+                },
+                "metadata": {
+                    "challenge_construction_insights": {},
+                    "correct_option_index": 2,
+                    "options_with_tts": [
+                        {
+                            "text": "우",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                        },
+                        {
+                            "text": "누",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                        },
+                        {
+                            "text": "더",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                        },
+                        {
+                            "text": "어",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                        }
+                    ],
+                    "solution_key": "f38081afdf75c0d6c0f50fe70d31efa2",
+                    "source_language": "ko",
+                    "transliteration": "deo",
+                    "specific_type": "character_select",
+                    "lexeme_ids_to_update": [
+                        "f38081afdf75c0d6c0f50fe70d31efa2"
+                    ],
+                    "learning_language": "ko",
+                    "type": "character_select",
+                    "lexemes_to_update": [
+                        "f38081afdf75c0d6c0f50fe70d31efa2"
+                    ],
+                    "generic_lexeme_map": {},
+                    "from_language": "en"
+                },
+                "progressUpdates": [],
+                "challengeGeneratorIdentifier": {
+                    "specificType": "character_select",
+                    "generatorId": "dcb1e7514bace47ec0bb2ac008550259"
+                }
+            },
+            {
+                "pairs": [
+                    {
+                        "transliteration": "deo",
+                        "character": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "transliteration": "du",
+                        "character": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "transliteration": "nu",
+                        "character": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    },
+                    {
+                        "transliteration": "u",
+                        "character": "우",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                    },
+                    {
+                        "transliteration": "eo",
+                        "character": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    }
+                ],
+                "type": "characterMatch",
+                "id": "7781d2a38deb4579a017c4f2b85b1d1e",
+                "challengeResponseTrackingProperties": {
+                    "path_uses_unit_vision": false,
+                    "level_session_index": 1,
+                    "generation_timestamp": 1704351507862,
+                    "session_type": "lesson",
+                    "is_v2": true,
+                    "tagged_kc_ids": [
+                        "21cc62ca4e4967bdedf74d427d739960"
+                    ]
+                },
+                "metadata": {
+                    "challenge_construction_insights": {},
+                    "pairs": [
+                        {
+                            "transliteration": "deo",
+                            "learning_character": "더",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                        },
+                        {
+                            "transliteration": "du",
+                            "learning_character": "두",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                        },
+                        {
+                            "transliteration": "nu",
+                            "learning_character": "누",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                        },
+                        {
+                            "transliteration": "u",
+                            "learning_character": "우",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/99bb5b3b88891b8f095827b2e0862ee2"
+                        },
+                        {
+                            "transliteration": "eo",
+                            "learning_character": "어",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                        }
+                    ],
+                    "solution_key": "21cc62ca4e4967bdedf74d427d739960",
+                    "source_language": "ko",
+                    "specific_type": "character_match",
+                    "lexeme_ids_to_update": [
+                        "21cc62ca4e4967bdedf74d427d739960"
+                    ],
+                    "learning_language": "ko",
+                    "type": "character_match",
+                    "lexemes_to_update": [
+                        "21cc62ca4e4967bdedf74d427d739960"
+                    ],
+                    "generic_lexeme_map": {},
+                    "from_language": "en"
+                },
+                "progressUpdates": [],
+                "challengeGeneratorIdentifier": {
+                    "specificType": "character_match",
+                    "generatorId": "eff89883e6d1617f3fa57f7b974bff9a"
+                }
+            },
+            {
+                "pairs": [
+                    {
+                        "transliteration": "du",
+                        "character": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "transliteration": "eo",
+                        "character": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "transliteration": "deo",
+                        "character": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "transliteration": "na",
+                        "character": "나",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ef2ba60762c7c23f803a248749c3667e"
+                    },
+                    {
+                        "transliteration": "nu",
+                        "character": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    }
+                ],
+                "type": "characterMatch",
+                "id": "b11bb2063b234ee9b60ff3e7927c75b1",
+                "challengeResponseTrackingProperties": {
+                    "path_uses_unit_vision": false,
+                    "level_session_index": 1,
+                    "generation_timestamp": 1704351507862,
+                    "session_type": "lesson",
+                    "is_v2": true,
+                    "tagged_kc_ids": [
+                        "9631d585679ba99597b317acca570fc1"
+                    ]
+                },
+                "metadata": {
+                    "challenge_construction_insights": {},
+                    "pairs": [
+                        {
+                            "transliteration": "du",
+                            "learning_character": "두",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                        },
+                        {
+                            "transliteration": "eo",
+                            "learning_character": "어",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                        },
+                        {
+                            "transliteration": "deo",
+                            "learning_character": "더",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                        },
+                        {
+                            "transliteration": "na",
+                            "learning_character": "나",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ef2ba60762c7c23f803a248749c3667e"
+                        },
+                        {
+                            "transliteration": "nu",
+                            "learning_character": "누",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                        }
+                    ],
+                    "solution_key": "9631d585679ba99597b317acca570fc1",
+                    "source_language": "ko",
+                    "specific_type": "character_match",
+                    "lexeme_ids_to_update": [
+                        "9631d585679ba99597b317acca570fc1"
+                    ],
+                    "learning_language": "ko",
+                    "type": "character_match",
+                    "lexemes_to_update": [
+                        "9631d585679ba99597b317acca570fc1"
+                    ],
+                    "generic_lexeme_map": {},
+                    "from_language": "en"
+                },
+                "progressUpdates": [],
+                "challengeGeneratorIdentifier": {
+                    "specificType": "character_match",
+                    "generatorId": "79248e3a4810eed9d40536a068a894fa"
+                }
+            },
+            {
+                "pairs": [
+                    {
+                        "transliteration": "deo",
+                        "character": "더",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                    },
+                    {
+                        "transliteration": "eo",
+                        "character": "어",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                    },
+                    {
+                        "transliteration": "ga",
+                        "character": "가",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/3bac82ec7cc86132e02d87637e82d315"
+                    },
+                    {
+                        "transliteration": "du",
+                        "character": "두",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                    },
+                    {
+                        "transliteration": "nu",
+                        "character": "누",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                    }
+                ],
+                "type": "characterMatch",
+                "id": "5679640d9bb240aab68ba5c8d1061e0d",
+                "challengeResponseTrackingProperties": {
+                    "path_uses_unit_vision": false,
+                    "level_session_index": 1,
+                    "generation_timestamp": 1704351507862,
+                    "session_type": "lesson",
+                    "is_v2": true,
+                    "tagged_kc_ids": [
+                        "092b17e4d29995a4c39d3f196e1c6b31"
+                    ]
+                },
+                "metadata": {
+                    "challenge_construction_insights": {},
+                    "pairs": [
+                        {
+                            "transliteration": "deo",
+                            "learning_character": "더",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/47b525c114ed5a769fab2bbc4828c139"
+                        },
+                        {
+                            "transliteration": "eo",
+                            "learning_character": "어",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/e8187b29295b19277113a321c3a70131"
+                        },
+                        {
+                            "transliteration": "ga",
+                            "learning_character": "가",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/3bac82ec7cc86132e02d87637e82d315"
+                        },
+                        {
+                            "transliteration": "du",
+                            "learning_character": "두",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/17b9a51958f06c3e02885450c5a2759b"
+                        },
+                        {
+                            "transliteration": "nu",
+                            "learning_character": "누",
+                            "tts": "https://d1vq87e9lcf771.cloudfront.net/ahnjong/ed976842b1a819deda0efa8dc0cb49d6"
+                        }
+                    ],
+                    "solution_key": "092b17e4d29995a4c39d3f196e1c6b31",
+                    "source_language": "ko",
+                    "specific_type": "character_match",
+                    "lexeme_ids_to_update": [
+                        "092b17e4d29995a4c39d3f196e1c6b31"
+                    ],
+                    "learning_language": "ko",
+                    "type": "character_match",
+                    "lexemes_to_update": [
+                        "092b17e4d29995a4c39d3f196e1c6b31"
+                    ],
+                    "generic_lexeme_map": {},
+                    "from_language": "en"
+                },
+                "progressUpdates": [],
+                "challengeGeneratorIdentifier": {
+                    "specificType": "character_match",
+                    "generatorId": "955dca681fcf79bd0bcc431d75383ee7"
+                }
+            }
+        ],
+        "harderComboConsecutives": 5,
+        "easierComboConsecutives": 1,
+        "harderChallengeReplacementIndices": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "easierChallengeReplacementIndices": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "speakOrListenReplacementIndices": [
+            null,
+            null,
+            null,
+            0,
+            null,
+            null,
+            1,
+            null,
+            null,
+            2,
+            null,
+            null,
+            3,
+            null,
+            null
+        ]
+    },
+    "metadata": {
+        "id": "Gh7uXEyK9JBRiz5t",
+        "checkpoint_quiz_elements": [],
+        "type": "lesson",
+        "target_lexeme_ids": [
+            "f38081afdf75c0d6c0f50fe70d31efa2",
+            "21cc62ca4e4967bdedf74d427d739960",
+            "9631d585679ba99597b317acca570fc1",
+            "092b17e4d29995a4c39d3f196e1c6b31",
+            "4ed12bd7fbaf821182a32a1822971ce3"
+        ],
+        "teaches_lexeme_ids": [
+            "4ed12bd7fbaf821182a32a1822971ce3",
+            "092b17e4d29995a4c39d3f196e1c6b31",
+            "21cc62ca4e4967bdedf74d427d739960",
+            "f38081afdf75c0d6c0f50fe70d31efa2",
+            "9631d585679ba99597b317acca570fc1"
+        ],
+        "kc_strength_model_version": 0,
+        "pass_strength": 0.0,
+        "min_strength_increment": 0.0,
+        "min_strength_decrement": 0.0,
+        "mixture_models": {},
+        "language": "ko",
+        "from_language": "en",
+        "ui_language": "en",
+        "language_string": "Korean",
+        "tts_enabled": true,
+        "skill_id": "3e32cb9708bdc9604e32177c04f1e45e",
+        "skill_tree_id": "2cf7ea2b1662c3bbcd8b4cccc769c4ec",
+        "skill_tree_level": 1,
+        "skill_name": "",
+        "skill_title": "Alphabet 1",
+        "skill_index": 1,
+        "skill_color": "blue",
+        "beginner": true,
+        "lesson_number": 2,
+        "first_lesson": false,
+        "level_index": 0,
+        "level_session_index": 1,
+        "experiments_with_treatment_contexts": {},
+        "session_experiment_record": [],
+        "is_restore": false,
+        "session_construction_insights": {
+            "challenge_pool_before_picking": [],
+            "rejected_challenges_info": [],
+            "num_challenges_after_default_quality_score_filtering": 17,
+            "picked_challenges_info": {
+                "challenges": [],
+                "parent_target_kcids": {},
+                "intentionally_covered_kcs": [],
+                "challenge_to_intentionally_covered_kcs": {}
+            },
+            "predicted_sum_time_taken": 72783.0020756502
+        },
+        "show_best_translation_in_grading_ribbon": true
+    },
+    "ttsAnnotations": {},
+    "trackingProperties": {
+        "percent_target_kc_coverage": 1.0,
+        "skill_x_coord": 1,
+        "skill_tree_id": "2cf7ea2b1662c3bbcd8b4cccc769c4ec",
+        "data_version": "default",
+        "max_repeated_challenge_type_count": 5,
+        "birdbrain_target": 0.0,
+        "tree_level": 1,
+        "lexemes_were_reordered": false,
+        "uses_birdbrain_sorting": true,
+        "type": "lesson",
+        "num_challenges_generated": 15,
+        "is_shorter_than_expected": false,
+        "uses_birdbrain_picking": false,
+        "num_challenges_after_failure_rate_filter": 17,
+        "num_easier_adaptive_challenges_gt": 2,
+        "learning_language": "ko",
+        "num_challenges_with_challenge_stats": 13,
+        "max_repeated_challenge_type": "character_intro",
+        "num_adaptive_challenges_gt_character_intro": 1,
+        "generation_timestamp": 1704351507862,
+        "max_repeated_sentence_count": 0,
+        "max_repeated_challenge_count": 1,
+        "max_repeated_undirected_sentence_count": 0,
+        "num_low_quality_challenges": 1,
+        "sentences_count": 0,
+        "num_challenges_gt": 15,
+        "num_easier_adaptive_challenges_generated": 2,
+        "num_sensitive_content_filtered": 0,
+        "distinct_sentences_count": 0,
+        "num_challenges_gt_character_intro": 5,
+        "num_adaptive_challenges_generated": 0,
+        "uses_birdbrain": true,
+        "birdbrain_probability_median": 0.8131302,
+        "read_from_cache": false,
+        "num_adaptive_challenges_gt": 0,
+        "from_language": "en",
+        "percent_low_quality_challenges": 0.06666666666666667,
+        "sum_content_length": 15,
+        "num_challenges_gt_select_pronunciation": 4,
+        "num_adaptive_challenges_gt_character_select": 1,
+        "birdbrain_probability_max": 0.9330223,
+        "percent_kc_coverage": 1.0,
+        "birdbrain_probability_min": 0.20993967,
+        "birdbrain_probability_avg": 0.75147,
+        "max_consecutive_challenge_type_count": 1,
+        "num_challenges_gt_character_match": 2,
+        "expected_length": 15,
+        "offline": false,
+        "num_interleaved_adaptive_challenges_gt": 0,
+        "activity_uuid": "4b3785c1-0288-4c44-ae2d-be7b7ecb0dcd",
+        "num_sensitivity_labels_of_user": 0,
+        "level_index": 0,
+        "avg_content_length": 1.0,
+        "level_session_index": 1,
+        "predicted_sum_time_taken": 72783.0020756502,
+        "generation_app_version": "null",
+        "max_consecutive_challenge_type": "character_intro",
+        "skill_name": "",
+        "distinct_undirected_sentences_count": 0,
+        "skill_id": "3e32cb9708bdc9604e32177c04f1e45e",
+        "grading_graph_sizes_sum": 0,
+        "lesson_number": 2,
+        "num_challenges_gt_character_select": 4
+    },
+    "beginner": true,
+    "skillId": "3e32cb9708bdc9604e32177c04f1e45e",
+    "sessionStartExperiments": [],
+    "lessonIndex": 1,
+    "levelIndex": 0,
+    "levelSessionIndex": 1,
+    "preSessionScreens": [],
+    "challengeTimeTakenCutoff": 60000,
+    "explanations": {},
+    "progressUpdates": [],
+    "isV2": true,
+    "pathUsesUnitVision": false,
+    "showBestTranslationInGradingRibbon": true
+}
