@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import germanData from '../json-langs/german_lev_1.json' assert {type: 'json'};
+import germanData from '../json-langs/german.json' assert {type: 'json'};
 import koreanData from '../json-langs/korean.json' assert {type: 'json'};
-
+import spanishData from '../json-langs/spanish.json' assert {type: 'json'};
 
 
 
@@ -9,9 +9,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     try {
         switch (req.query.lang) {
             case 'de': return res.json(germanData)
-            // case 'eng':
-            default: return res.json({ koreanData })
-
+            case 'es': return res.json(spanishData)
+            case 'ko': return res.json(koreanData )
         }
 
     } catch (error) {
