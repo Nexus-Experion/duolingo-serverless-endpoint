@@ -2,7 +2,10 @@ import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
     try {
-        await fetch('../json-langs/german_lev_1.json').then(response => response.json()).then(data => { return res.json(data) });
+        await fetch('../json-langs/german_lev_1.json').then(response => response.json()).then(data => {
+            const parsedData = JSON.parse(data);
+            return res.json(parsedData)
+        });
         // console.log('first    ' + response);
 
         // if (!response.ok) {
