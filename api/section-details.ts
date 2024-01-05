@@ -5,7 +5,10 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
     const sectionId=req.query.section;
   try {
     switch (req.query.lang) {
-        case 'es': return res.json(spanishSectionOne);
+        case 'de': return res.json(spanishSectionOne)
+        case 'es': return res.json(spanishSectionOne)
+        case 'fr': return res.json(spanishSectionOne)
+        case 'ja': return res.json(spanishSectionOne)
         default:return res.json({message:`No data exist for lang=${lang} and section=${sectionId}`})
     }
   } catch (error) {
