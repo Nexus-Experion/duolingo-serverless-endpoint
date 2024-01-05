@@ -5,6 +5,1104 @@
     "type": "LEXEME_SKILL_LEVEL_PRACTICE",
     "challenges": [
         {
+            "prompt": "Coffee and milk, please!",
+            "correctSolutions": [
+                "Kaffee und Milch, bitte!"
+            ],
+            "compactTranslations": [
+                "Kaffee und Milch, bitte!",
+                "[Einen/] Kaffee und [eine/] Milch, bitte!"
+            ],
+            "correctTokens": [
+                "Kaffee",
+                "und",
+                "Milch",
+                "bitte"
+            ],
+            "wrongTokens": [
+                "Tee",
+                "Brot",
+                "danke",
+                "ja"
+            ],
+            "choices": [
+                {
+                    "text": "Kaffee",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/003e56a4737e3cf5a0fdd46bff4ad1a6"
+                },
+                {
+                    "text": "und",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/4262ab22365be9e792c3875fd56afb89"
+                },
+                {
+                    "text": "Milch",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/cc9ffde0c04e5896afce1486856df1e9"
+                },
+                {
+                    "text": "bitte",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/430ee81a7bba2875997c271135c0b79b"
+                },
+                {
+                    "text": "Tee",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/5fa852b11d5485cf4a7d72718f5fa767"
+                },
+                {
+                    "text": "Brot",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/a926032f93e37023bf0f612ab4d53eb4"
+                },
+                {
+                    "text": "danke",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/c433c20c35ab69bddd111f882f5e14e5"
+                },
+                {
+                    "text": "ja",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/e0f23b2a9531b93d2c02a42b94fce341"
+                }
+            ],
+            "correctIndices": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "sourceLanguage": "en",
+            "targetLanguage": "de",
+            "solutionTts": "https://d1vq87e9lcf771.cloudfront.net/beade/1f59fddaf26dd2e295437c4907144769",
+            "grader": {
+                "version": 0,
+                "vertices": [
+                    [
+                        {
+                            "to": 1,
+                            "lenient": ""
+                        }
+                    ],
+                    [
+                        {
+                            "to": 2,
+                            "lenient": "kaffee",
+                            "orig": "Kaffee"
+                        },
+                        {
+                            "to": 2,
+                            "lenient": "kaffe",
+                            "type": "typo",
+                            "orig": "Kaffee"
+                        },
+                        {
+                            "to": 2,
+                            "lenient": "kafee",
+                            "type": "typo",
+                            "orig": "Kaffee"
+                        },
+                        {
+                            "to": 8,
+                            "lenient": ""
+                        },
+                        {
+                            "to": 15,
+                            "lenient": "einen",
+                            "orig": "Einen"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 3,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 4,
+                            "lenient": "und"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 5,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 6,
+                            "lenient": "milch",
+                            "orig": "Milch,"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 7,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 17,
+                            "lenient": "bitte",
+                            "orig": "bitte!"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 9,
+                            "lenient": "kaffee",
+                            "orig": "Kaffee"
+                        },
+                        {
+                            "to": 9,
+                            "lenient": "kaffe",
+                            "type": "typo",
+                            "orig": "Kaffee"
+                        },
+                        {
+                            "to": 9,
+                            "lenient": "kafee",
+                            "type": "typo",
+                            "orig": "Kaffee"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 10,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 11,
+                            "lenient": "und"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 12,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 13,
+                            "lenient": ""
+                        },
+                        {
+                            "to": 14,
+                            "lenient": "eine"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 6,
+                            "lenient": "milch",
+                            "orig": "Milch,"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 13,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 16,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 9,
+                            "lenient": "kaffee",
+                            "orig": "Kaffee"
+                        },
+                        {
+                            "to": 9,
+                            "lenient": "kaffe",
+                            "type": "typo",
+                            "orig": "Kaffee"
+                        },
+                        {
+                            "to": 9,
+                            "lenient": "kafee",
+                            "type": "typo",
+                            "orig": "Kaffee"
+                        }
+                    ],
+                    []
+                ],
+                "language": "de",
+                "whitespaceDelimited": true
+            },
+            "taggedKcIds": [
+                {
+                    "legacyId": "e25a8f420cb9576afd58b942b6294be5",
+                    "kcTypeStr": "lex"
+                },
+                {
+                    "legacyId": "e0fc2007688b591de1acf8374c9ce38e",
+                    "kcTypeStr": "lex"
+                },
+                {
+                    "legacyId": "4d321578fac631e23ff68dee109c644d",
+                    "kcTypeStr": "lex"
+                },
+                {
+                    "legacyId": "b6744f58825816aa3c3367e6f79ddff1",
+                    "kcTypeStr": "lex"
+                }
+            ],
+            "tokens": [
+                {
+                    "value": "Coffee",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "Kaffee"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": " "
+                },
+                {
+                    "value": "and",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "und"
+                                }
+                            ],
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "um zu"
+                                }
+                            ],
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "um"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": " "
+                },
+                {
+                    "value": "milk",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "Milch"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": ","
+                },
+                {
+                    "value": " "
+                },
+                {
+                    "value": "please",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "bitte"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": "!"
+                }
+            ],
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/642cbe2773d1c5c4ce72322541307b87",
+            "character": {
+                "url": "https://d2pur3iezf4d1j.cloudfront.net/images/b24ffc3b19f1fc9ffbc108d1d3936dd8",
+                "image": {
+                    "pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/b24ffc3b19f1fc9ffbc108d1d3936dd8",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/50af330449fbbaf257fc9868c4321586"
+                },
+                "gender": "female",
+                "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Bea_CORRECT_Cropped_ShoulderBrush.json",
+                "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Bea_INCORRECT_Cropped_V2.json",
+                "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Bea_IDLE_Cropped_V2.json",
+                "name": "BEA",
+                "avatarIconImage": {
+                    "pdf": "https://simg-ssl.duolingo.com/world-characters/avatars/bea_avatar_icon.pdf",
+                    "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/bea_avatar_icon.svg"
+                }
+            },
+            "isSpeakerUniversal": false,
+            "type": "translate",
+            "id": "a92c04f38c15442688c106015c131bae",
+            "challengeResponseTrackingProperties": {
+                "best_solution": "Kaffee und Milch, bitte!",
+                "level_session_index": 4,
+                "birdbrain_target": 0.8,
+                "cefr_subsection": "A1.0",
+                "num_tap_distractors": 4.0,
+                "is_v2": true,
+                "predicted_time_taken": 11162.077368671547,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_A1",
+                "is_adaptive": true,
+                "grading_graph_size": 1063,
+                "birdbrain_source": "birdbrain_v2",
+                "num_correct_answer_tokens": 4.0,
+                "generation_timestamp": 1703089787190,
+                "session_type": "lexeme_skill_level_practice",
+                "birdbrain_probability": 0.86891276,
+                "content_length": 24.0,
+                "tagged_kc_ids": [
+                    "e25a8f420cb9576afd58b942b6294be5",
+                    "e0fc2007688b591de1acf8374c9ce38e",
+                    "4d321578fac631e23ff68dee109c644d",
+                    "b6744f58825816aa3c3367e6f79ddff1"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.86891276,
+                    "birdbrain_target": 0.8,
+                    "birdbrain_source": "birdbrain_v2",
+                    "num_tap_distractors": 4,
+                    "content_length": 24,
+                    "best_solution": "Kaffee und Milch, bitte!",
+                    "num_correct_answer_tokens": 4,
+                    "is_adaptive": true,
+                    "predicted_time_taken": 11162.077368671547,
+                    "cefr_level": "CEFR_A1",
+                    "cefr_subsection": "A1.0"
+                },
+                "highlight": [],
+                "indicator_type": {
+                    "name": "HARD_CHALLENGE"
+                },
+                "sentence": "Coffee and milk, please!",
+                "solution_key": "35df304eeebec0c51c286dbd36567505",
+                "source_language": "en",
+                "target_language": "de",
+                "tokens": [
+                    "Kaffee",
+                    "und",
+                    "Milch",
+                    "bitte"
+                ],
+                "translation": "Kaffee und Milch, bitte!",
+                "wrong_tokens": [
+                    "Tee",
+                    "Brot",
+                    "danke",
+                    "ja"
+                ],
+                "text": "Coffee and milk, please!",
+                "specific_type": "reverse_tap",
+                "lexeme_ids_to_update": [
+                    "e25a8f420cb9576afd58b942b6294be5",
+                    "e0fc2007688b591de1acf8374c9ce38e",
+                    "4d321578fac631e23ff68dee109c644d",
+                    "b6744f58825816aa3c3367e6f79ddff1"
+                ],
+                "type": "translate",
+                "lexemes_to_update": [
+                    "e25a8f420cb9576afd58b942b6294be5",
+                    "e0fc2007688b591de1acf8374c9ce38e",
+                    "4d321578fac631e23ff68dee109c644d",
+                    "b6744f58825816aa3c3367e6f79ddff1"
+                ],
+                "generic_lexeme_map": {},
+                "num_comments": 0,
+                "learning_language": "de",
+                "from_language": "en"
+            },
+            "newWords": [],
+            "progressUpdates": [],
+            "sentenceId": "35df304eeebec0c51c286dbd36567505",
+            "challengeGeneratorIdentifier": {
+                "specificType": "reverse_tap",
+                "generatorId": "35df304eeebec0c51c286dbd36567505"
+            },
+            "indicatorType": "HARD_CHALLENGE"
+        },
+        {
+            "prompt": "Bread and coffee, please!",
+            "correctSolutions": [
+                "Brot und Kaffee, bitte!"
+            ],
+            "compactTranslations": [
+                "Brot und Kaffee, bitte!",
+                "Brot und [einen/] Kaffee, bitte!"
+            ],
+            "correctTokens": [
+                "Brot",
+                "und",
+                "Kaffee",
+                "bitte"
+            ],
+            "wrongTokens": [
+                "Bier",
+                "oder",
+                "danke",
+                "hallo"
+            ],
+            "choices": [
+                {
+                    "text": "Brot",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/448318d5a6dbbb1c306503362347236e"
+                },
+                {
+                    "text": "und",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/3880a689de37c81b00acb082a1f6170b"
+                },
+                {
+                    "text": "Kaffee",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/de3790e61555fbde998afa33a5615c7e"
+                },
+                {
+                    "text": "bitte",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/71a7d8cd42b03303cf468947e82091f9"
+                },
+                {
+                    "text": "Bier",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/6b688d001d1d658af064e8a61f3154e7"
+                },
+                {
+                    "text": "oder",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/d6227bee34982f5af45ff911d68d059b"
+                },
+                {
+                    "text": "danke",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/dba6f033397b9382ae38c6c0206eb60e"
+                },
+                {
+                    "text": "hallo",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/9d4bfea86e6b7e7fa9e8bba08f4c8998"
+                }
+            ],
+            "correctIndices": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "sourceLanguage": "en",
+            "targetLanguage": "de",
+            "solutionTts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/63f2aac175a78dc388fffd2738cc8391",
+            "grader": {
+                "version": 0,
+                "vertices": [
+                    [
+                        {
+                            "to": 1,
+                            "lenient": ""
+                        }
+                    ],
+                    [
+                        {
+                            "to": 2,
+                            "lenient": "brot",
+                            "orig": "Brot"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 3,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 4,
+                            "lenient": "und"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 5,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 6,
+                            "lenient": ""
+                        },
+                        {
+                            "to": 9,
+                            "lenient": "einen"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 7,
+                            "lenient": "kaffee",
+                            "orig": "Kaffee,"
+                        },
+                        {
+                            "to": 7,
+                            "lenient": "kaffe",
+                            "type": "typo",
+                            "orig": "Kaffee,"
+                        },
+                        {
+                            "to": 7,
+                            "lenient": "kafee",
+                            "type": "typo",
+                            "orig": "Kaffee,"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 8,
+                            "lenient": " "
+                        }
+                    ],
+                    [
+                        {
+                            "to": 10,
+                            "lenient": "bitte",
+                            "orig": "bitte!"
+                        }
+                    ],
+                    [
+                        {
+                            "to": 6,
+                            "lenient": " "
+                        }
+                    ],
+                    []
+                ],
+                "language": "de",
+                "whitespaceDelimited": true
+            },
+            "taggedKcIds": [
+                {
+                    "legacyId": "32c1b5f5651424003185cae76c27588f",
+                    "kcTypeStr": "lex"
+                },
+                {
+                    "legacyId": "e0fc2007688b591de1acf8374c9ce38e",
+                    "kcTypeStr": "lex"
+                },
+                {
+                    "legacyId": "e25a8f420cb9576afd58b942b6294be5",
+                    "kcTypeStr": "lex"
+                },
+                {
+                    "legacyId": "b6744f58825816aa3c3367e6f79ddff1",
+                    "kcTypeStr": "lex"
+                }
+            ],
+            "tokens": [
+                {
+                    "value": "Bread",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "Brot"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": " "
+                },
+                {
+                    "value": "and",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "und"
+                                }
+                            ],
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "um zu"
+                                }
+                            ],
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "um"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": " "
+                },
+                {
+                    "value": "coffee",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "Kaffee"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": ","
+                },
+                {
+                    "value": " "
+                },
+                {
+                    "value": "please",
+                    "hintTable": {
+                        "headers": [],
+                        "rows": [
+                            [
+                                {
+                                    "colspan": 1,
+                                    "hint": "bitte"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "value": "!"
+                }
+            ],
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/cd451564ce35f7f291f00287ac0048a1",
+            "character": {
+                "url": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+                "image": {
+                    "pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+                },
+                "gender": "male",
+                "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_CORRECT_Cropped_Cheer.json",
+                "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_INCORRECT_Cropped.json",
+                "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_IDLE_Cropped.json",
+                "name": "EDDY",
+                "avatarIconImage": {
+                    "pdf": "https://simg-ssl.duolingo.com/world-characters/avatars/eddy_avatar_icon.pdf",
+                    "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/eddy_avatar_icon.svg"
+                }
+            },
+            "isSpeakerUniversal": false,
+            "type": "translate",
+            "id": "aaaed46faba240aaa3cdc7c72a661f1e",
+            "challengeResponseTrackingProperties": {
+                "best_solution": "Brot und Kaffee, bitte!",
+                "level_session_index": 4,
+                "birdbrain_target": 0.8,
+                "cefr_subsection": "A1.0",
+                "num_tap_distractors": 4.0,
+                "is_v2": true,
+                "predicted_time_taken": 11757.919357869645,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_A1",
+                "is_adaptive": true,
+                "grading_graph_size": 525,
+                "birdbrain_source": "birdbrain_v2",
+                "num_correct_answer_tokens": 4.0,
+                "generation_timestamp": 1703089787190,
+                "session_type": "lexeme_skill_level_practice",
+                "birdbrain_probability": 0.8572771,
+                "content_length": 23.0,
+                "tagged_kc_ids": [
+                    "32c1b5f5651424003185cae76c27588f",
+                    "e0fc2007688b591de1acf8374c9ce38e",
+                    "e25a8f420cb9576afd58b942b6294be5",
+                    "b6744f58825816aa3c3367e6f79ddff1"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.8572771,
+                    "birdbrain_target": 0.8,
+                    "birdbrain_source": "birdbrain_v2",
+                    "num_tap_distractors": 4,
+                    "content_length": 23,
+                    "best_solution": "Brot und Kaffee, bitte!",
+                    "num_correct_answer_tokens": 4,
+                    "is_adaptive": true,
+                    "predicted_time_taken": 11757.919357869645,
+                    "cefr_level": "CEFR_A1",
+                    "cefr_subsection": "A1.0"
+                },
+                "highlight": [],
+                "indicator_type": {
+                    "name": "HARD_CHALLENGE"
+                },
+                "sentence": "Bread and coffee, please!",
+                "solution_key": "d0beb5874f47dd82646dbce9c4efc436",
+                "source_language": "en",
+                "target_language": "de",
+                "tokens": [
+                    "Brot",
+                    "und",
+                    "Kaffee",
+                    "bitte"
+                ],
+                "translation": "Brot und Kaffee, bitte!",
+                "wrong_tokens": [
+                    "Bier",
+                    "oder",
+                    "danke",
+                    "hallo"
+                ],
+                "text": "Bread and coffee, please!",
+                "specific_type": "reverse_tap",
+                "lexeme_ids_to_update": [
+                    "32c1b5f5651424003185cae76c27588f",
+                    "e0fc2007688b591de1acf8374c9ce38e",
+                    "e25a8f420cb9576afd58b942b6294be5",
+                    "b6744f58825816aa3c3367e6f79ddff1"
+                ],
+                "type": "translate",
+                "lexemes_to_update": [
+                    "32c1b5f5651424003185cae76c27588f",
+                    "e0fc2007688b591de1acf8374c9ce38e",
+                    "e25a8f420cb9576afd58b942b6294be5",
+                    "b6744f58825816aa3c3367e6f79ddff1"
+                ],
+                "generic_lexeme_map": {},
+                "num_comments": 0,
+                "learning_language": "de",
+                "from_language": "en"
+            },
+            "newWords": [],
+            "progressUpdates": [],
+            "sentenceId": "d0beb5874f47dd82646dbce9c4efc436",
+            "challengeGeneratorIdentifier": {
+                "specificType": "reverse_tap",
+                "generatorId": "d0beb5874f47dd82646dbce9c4efc436"
+            },
+            "indicatorType": "HARD_CHALLENGE"
+        },
+        {
+            "choices": [
+                {
+                    "text": "na",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/a9a084f701f7a220cb3438026a14cc98"
+                },
+                {
+                    "text": "wa",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/0ee89021c9217ae2b60962b2ed24678f"
+                },
+                {
+                    "text": "la",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/4207ae047490ba65e98a250bc1e1bbf6"
+                },
+                {
+                    "text": "ra",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef"
+                }
+            ],
+            "correctIndex": 3,
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef",
+            "type": "selectTranscription",
+            "id": "607f25cb4490474db124ecfa03b17e1b",
+            "challengeResponseTrackingProperties": {
+                "level_session_index": 4,
+                "birdbrain_target": 0.8,
+                "cefr_subsection": "A1.0",
+                "is_v2": true,
+                "predicted_time_taken": 4790.50852272497,
+                "path_uses_unit_vision": false,
+                "cefr_level": "CEFR_A1",
+                "is_adaptive": false,
+                "birdbrain_source": "birdbrain_v2",
+                "generation_timestamp": 1703089787190,
+                "session_type": "lexeme_skill_level_practice",
+                "birdbrain_probability": 0.8875834,
+                "content_length": 2.0,
+                "tagged_kc_ids": [
+                    "48cd618a2cfd982bfe3cef8d76e5c230"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {
+                    "birdbrain_probability": 0.8875834,
+                    "birdbrain_target": 0.8,
+                    "birdbrain_source": "birdbrain_v2",
+                    "content_length": 2,
+                    "is_adaptive": false,
+                    "predicted_time_taken": 4790.50852272497,
+                    "cefr_level": "CEFR_A1",
+                    "cefr_subsection": "A1.0"
+                },
+                "correct_index": 3,
+                "indicator_type": {
+                    "name": "EASY_CHALLENGE"
+                },
+                "choices": [
+                    {
+                        "text": "na",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/a9a084f701f7a220cb3438026a14cc98"
+                    },
+                    {
+                        "text": "wa",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/0ee89021c9217ae2b60962b2ed24678f"
+                    },
+                    {
+                        "text": "la",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/4207ae047490ba65e98a250bc1e1bbf6"
+                    },
+                    {
+                        "text": "ra",
+                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef"
+                    }
+                ],
+                "solution_key": "48cd618a2cfd982bfe3cef8d76e5c230",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef",
+                "source_language": "de",
+                "specific_type": "select_transcription",
+                "lexeme_ids_to_update": [
+                    "48cd618a2cfd982bfe3cef8d76e5c230"
+                ],
+                "learning_language": "de",
+                "type": "select_transcription",
+                "lexemes_to_update": [
+                    "48cd618a2cfd982bfe3cef8d76e5c230"
+                ],
+                "generic_lexeme_map": {},
+                "from_language": "en"
+            },
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "select_transcription",
+                "generatorId": "6c231197faae16f81e2295762878b629"
+            },
+            "indicatorType": "EASY_CHALLENGE"
+        },
+        {
+            "prompt": "bread",
+            "choices": [
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
+                    "phrase": "Brot",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/15f80cfe6a8ee8e7fa7f5d3c6f1709e0",
+                    "hint": "bread"
+                },
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+                    "phrase": "Wasser",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/e245b0017d6bf8942ae7df109de7a3e9",
+                    "hint": "water"
+                },
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
+                    "phrase": "Tee",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/2858cf09686f43753dedb8f29984388c",
+                    "hint": "tea"
+                }
+            ],
+            "correctIndex": 0,
+            "type": "select",
+            "id": "58149c63e9b44e41b5f0625e2031b864",
+            "challengeResponseTrackingProperties": {
+                "path_uses_unit_vision": false,
+                "level_session_index": 4,
+                "generation_timestamp": 1703089787190,
+                "session_type": "lexeme_skill_level_practice",
+                "is_v2": true,
+                "tagged_kc_ids": [
+                    "32c1b5f5651424003185cae76c27588f"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {},
+                "highlight": [],
+                "hint": "bread",
+                "phrase": "Brot",
+                "solution_key": "32c1b5f5651424003185cae76c27588f",
+                "source_language": "de",
+                "specific_type": "name_example",
+                "language": "de",
+                "lexeme_ids_to_update": [
+                    "32c1b5f5651424003185cae76c27588f"
+                ],
+                "type": "select",
+                "lexemes_to_update": [
+                    "32c1b5f5651424003185cae76c27588f"
+                ],
+                "generic_lexeme_map": {},
+                "num_comments": 0,
+                "learning_language": "de",
+                "from_language": "en"
+            },
+            "newWords": [],
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "name_example",
+                "generatorId": "32c1b5f5651424003185cae76c27588f"
+            }
+        },
+        {
+            "prompt": "coffee",
+            "choices": [
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+                    "phrase": "Wasser",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/e245b0017d6bf8942ae7df109de7a3e9",
+                    "hint": "water"
+                },
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/6fd84b8a838c43c4a84b44b08b10177e",
+                    "phrase": "Kaffee",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6fd84b8a838c43c4a84b44b08b10177e",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/5beb8054de20d70eba4ca0e8a928eca4",
+                    "hint": "coffee"
+                },
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/645fa42dcea02c7e2970a1285e321562",
+                    "phrase": "Milch",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/645fa42dcea02c7e2970a1285e321562",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/8652a17aee97beb79ba4885e74017fdd",
+                    "hint": "milk"
+                }
+            ],
+            "correctIndex": 1,
+            "type": "select",
+            "id": "21859faa67a847dbbae451dee1cb1389",
+            "challengeResponseTrackingProperties": {
+                "path_uses_unit_vision": false,
+                "level_session_index": 4,
+                "generation_timestamp": 1703089787190,
+                "session_type": "lexeme_skill_level_practice",
+                "is_v2": true,
+                "tagged_kc_ids": [
+                    "e25a8f420cb9576afd58b942b6294be5"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {},
+                "highlight": [],
+                "hint": "coffee",
+                "phrase": "Kaffee",
+                "solution_key": "e25a8f420cb9576afd58b942b6294be5",
+                "source_language": "de",
+                "specific_type": "name_example",
+                "language": "de",
+                "lexeme_ids_to_update": [
+                    "e25a8f420cb9576afd58b942b6294be5"
+                ],
+                "type": "select",
+                "lexemes_to_update": [
+                    "e25a8f420cb9576afd58b942b6294be5"
+                ],
+                "generic_lexeme_map": {},
+                "num_comments": 0,
+                "learning_language": "de",
+                "from_language": "en"
+            },
+            "newWords": [],
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "name_example",
+                "generatorId": "e25a8f420cb9576afd58b942b6294be5"
+            }
+        },
+        {
+            "prompt": "tea",
+            "choices": [
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
+                    "phrase": "Brot",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/15f80cfe6a8ee8e7fa7f5d3c6f1709e0",
+                    "hint": "bread"
+                },
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
+                    "phrase": "Tee",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/a3aa8ed8c91b2826a10017e4edc795ef",
+                    "hint": "tea"
+                },
+                {
+                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+                    "phrase": "Wasser",
+                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/e245b0017d6bf8942ae7df109de7a3e9",
+                    "hint": "water"
+                }
+            ],
+            "correctIndex": 1,
+            "type": "select",
+            "id": "b8c1f159c01c4234a2adc9226a607dc3",
+            "challengeResponseTrackingProperties": {
+                "path_uses_unit_vision": false,
+                "level_session_index": 4,
+                "generation_timestamp": 1703089787190,
+                "session_type": "lexeme_skill_level_practice",
+                "is_v2": true,
+                "tagged_kc_ids": [
+                    "209e587c7df53af46283720b1067740f"
+                ]
+            },
+            "metadata": {
+                "challenge_construction_insights": {},
+                "highlight": [],
+                "hint": "tea",
+                "phrase": "Tee",
+                "solution_key": "209e587c7df53af46283720b1067740f",
+                "source_language": "de",
+                "specific_type": "name_example",
+                "language": "de",
+                "lexeme_ids_to_update": [
+                    "209e587c7df53af46283720b1067740f"
+                ],
+                "type": "select",
+                "lexemes_to_update": [
+                    "209e587c7df53af46283720b1067740f"
+                ],
+                "generic_lexeme_map": {},
+                "num_comments": 0,
+                "learning_language": "de",
+                "from_language": "en"
+            },
+            "newWords": [],
+            "progressUpdates": [],
+            "challengeGeneratorIdentifier": {
+                "specificType": "name_example",
+                "generatorId": "209e587c7df53af46283720b1067740f"
+            }
+        },
+        {
             "character": {
                 "url": "https://d2pur3iezf4d1j.cloudfront.net/images/1d4af8ffd16389a7c68b88b0d358ce92",
                 "image": {
@@ -2517,1106 +3615,7 @@
             }
         }
     ],
-    "adaptiveChallenges": [
-        {
-            "prompt": "Coffee and milk, please!",
-            "correctSolutions": [
-                "Kaffee und Milch, bitte!"
-            ],
-            "compactTranslations": [
-                "Kaffee und Milch, bitte!",
-                "[Einen/] Kaffee und [eine/] Milch, bitte!"
-            ],
-            "correctTokens": [
-                "Kaffee",
-                "und",
-                "Milch",
-                "bitte"
-            ],
-            "wrongTokens": [
-                "Tee",
-                "Brot",
-                "danke",
-                "ja"
-            ],
-            "choices": [
-                {
-                    "text": "Kaffee",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/003e56a4737e3cf5a0fdd46bff4ad1a6"
-                },
-                {
-                    "text": "und",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/4262ab22365be9e792c3875fd56afb89"
-                },
-                {
-                    "text": "Milch",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/cc9ffde0c04e5896afce1486856df1e9"
-                },
-                {
-                    "text": "bitte",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/430ee81a7bba2875997c271135c0b79b"
-                },
-                {
-                    "text": "Tee",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/5fa852b11d5485cf4a7d72718f5fa767"
-                },
-                {
-                    "text": "Brot",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/a926032f93e37023bf0f612ab4d53eb4"
-                },
-                {
-                    "text": "danke",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/c433c20c35ab69bddd111f882f5e14e5"
-                },
-                {
-                    "text": "ja",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/beade/e0f23b2a9531b93d2c02a42b94fce341"
-                }
-            ],
-            "correctIndices": [
-                0,
-                1,
-                2,
-                3
-            ],
-            "sourceLanguage": "en",
-            "targetLanguage": "de",
-            "solutionTts": "https://d1vq87e9lcf771.cloudfront.net/beade/1f59fddaf26dd2e295437c4907144769",
-            "grader": {
-                "version": 0,
-                "vertices": [
-                    [
-                        {
-                            "to": 1,
-                            "lenient": ""
-                        }
-                    ],
-                    [
-                        {
-                            "to": 2,
-                            "lenient": "kaffee",
-                            "orig": "Kaffee"
-                        },
-                        {
-                            "to": 2,
-                            "lenient": "kaffe",
-                            "type": "typo",
-                            "orig": "Kaffee"
-                        },
-                        {
-                            "to": 2,
-                            "lenient": "kafee",
-                            "type": "typo",
-                            "orig": "Kaffee"
-                        },
-                        {
-                            "to": 8,
-                            "lenient": ""
-                        },
-                        {
-                            "to": 15,
-                            "lenient": "einen",
-                            "orig": "Einen"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 3,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 4,
-                            "lenient": "und"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 5,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 6,
-                            "lenient": "milch",
-                            "orig": "Milch,"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 7,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 17,
-                            "lenient": "bitte",
-                            "orig": "bitte!"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 9,
-                            "lenient": "kaffee",
-                            "orig": "Kaffee"
-                        },
-                        {
-                            "to": 9,
-                            "lenient": "kaffe",
-                            "type": "typo",
-                            "orig": "Kaffee"
-                        },
-                        {
-                            "to": 9,
-                            "lenient": "kafee",
-                            "type": "typo",
-                            "orig": "Kaffee"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 10,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 11,
-                            "lenient": "und"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 12,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 13,
-                            "lenient": ""
-                        },
-                        {
-                            "to": 14,
-                            "lenient": "eine"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 6,
-                            "lenient": "milch",
-                            "orig": "Milch,"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 13,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 16,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 9,
-                            "lenient": "kaffee",
-                            "orig": "Kaffee"
-                        },
-                        {
-                            "to": 9,
-                            "lenient": "kaffe",
-                            "type": "typo",
-                            "orig": "Kaffee"
-                        },
-                        {
-                            "to": 9,
-                            "lenient": "kafee",
-                            "type": "typo",
-                            "orig": "Kaffee"
-                        }
-                    ],
-                    []
-                ],
-                "language": "de",
-                "whitespaceDelimited": true
-            },
-            "taggedKcIds": [
-                {
-                    "legacyId": "e25a8f420cb9576afd58b942b6294be5",
-                    "kcTypeStr": "lex"
-                },
-                {
-                    "legacyId": "e0fc2007688b591de1acf8374c9ce38e",
-                    "kcTypeStr": "lex"
-                },
-                {
-                    "legacyId": "4d321578fac631e23ff68dee109c644d",
-                    "kcTypeStr": "lex"
-                },
-                {
-                    "legacyId": "b6744f58825816aa3c3367e6f79ddff1",
-                    "kcTypeStr": "lex"
-                }
-            ],
-            "tokens": [
-                {
-                    "value": "Coffee",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "Kaffee"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": " "
-                },
-                {
-                    "value": "and",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "und"
-                                }
-                            ],
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "um zu"
-                                }
-                            ],
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "um"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": " "
-                },
-                {
-                    "value": "milk",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "Milch"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": ","
-                },
-                {
-                    "value": " "
-                },
-                {
-                    "value": "please",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "bitte"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": "!"
-                }
-            ],
-            "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/642cbe2773d1c5c4ce72322541307b87",
-            "character": {
-                "url": "https://d2pur3iezf4d1j.cloudfront.net/images/b24ffc3b19f1fc9ffbc108d1d3936dd8",
-                "image": {
-                    "pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/b24ffc3b19f1fc9ffbc108d1d3936dd8",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/50af330449fbbaf257fc9868c4321586"
-                },
-                "gender": "female",
-                "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Bea_CORRECT_Cropped_ShoulderBrush.json",
-                "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Bea_INCORRECT_Cropped_V2.json",
-                "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Bea_IDLE_Cropped_V2.json",
-                "name": "BEA",
-                "avatarIconImage": {
-                    "pdf": "https://simg-ssl.duolingo.com/world-characters/avatars/bea_avatar_icon.pdf",
-                    "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/bea_avatar_icon.svg"
-                }
-            },
-            "isSpeakerUniversal": false,
-            "type": "translate",
-            "id": "a92c04f38c15442688c106015c131bae",
-            "challengeResponseTrackingProperties": {
-                "best_solution": "Kaffee und Milch, bitte!",
-                "level_session_index": 4,
-                "birdbrain_target": 0.8,
-                "cefr_subsection": "A1.0",
-                "num_tap_distractors": 4.0,
-                "is_v2": true,
-                "predicted_time_taken": 11162.077368671547,
-                "path_uses_unit_vision": false,
-                "cefr_level": "CEFR_A1",
-                "is_adaptive": true,
-                "grading_graph_size": 1063,
-                "birdbrain_source": "birdbrain_v2",
-                "num_correct_answer_tokens": 4.0,
-                "generation_timestamp": 1703089787190,
-                "session_type": "lexeme_skill_level_practice",
-                "birdbrain_probability": 0.86891276,
-                "content_length": 24.0,
-                "tagged_kc_ids": [
-                    "e25a8f420cb9576afd58b942b6294be5",
-                    "e0fc2007688b591de1acf8374c9ce38e",
-                    "4d321578fac631e23ff68dee109c644d",
-                    "b6744f58825816aa3c3367e6f79ddff1"
-                ]
-            },
-            "metadata": {
-                "challenge_construction_insights": {
-                    "birdbrain_probability": 0.86891276,
-                    "birdbrain_target": 0.8,
-                    "birdbrain_source": "birdbrain_v2",
-                    "num_tap_distractors": 4,
-                    "content_length": 24,
-                    "best_solution": "Kaffee und Milch, bitte!",
-                    "num_correct_answer_tokens": 4,
-                    "is_adaptive": true,
-                    "predicted_time_taken": 11162.077368671547,
-                    "cefr_level": "CEFR_A1",
-                    "cefr_subsection": "A1.0"
-                },
-                "highlight": [],
-                "indicator_type": {
-                    "name": "HARD_CHALLENGE"
-                },
-                "sentence": "Coffee and milk, please!",
-                "solution_key": "35df304eeebec0c51c286dbd36567505",
-                "source_language": "en",
-                "target_language": "de",
-                "tokens": [
-                    "Kaffee",
-                    "und",
-                    "Milch",
-                    "bitte"
-                ],
-                "translation": "Kaffee und Milch, bitte!",
-                "wrong_tokens": [
-                    "Tee",
-                    "Brot",
-                    "danke",
-                    "ja"
-                ],
-                "text": "Coffee and milk, please!",
-                "specific_type": "reverse_tap",
-                "lexeme_ids_to_update": [
-                    "e25a8f420cb9576afd58b942b6294be5",
-                    "e0fc2007688b591de1acf8374c9ce38e",
-                    "4d321578fac631e23ff68dee109c644d",
-                    "b6744f58825816aa3c3367e6f79ddff1"
-                ],
-                "type": "translate",
-                "lexemes_to_update": [
-                    "e25a8f420cb9576afd58b942b6294be5",
-                    "e0fc2007688b591de1acf8374c9ce38e",
-                    "4d321578fac631e23ff68dee109c644d",
-                    "b6744f58825816aa3c3367e6f79ddff1"
-                ],
-                "generic_lexeme_map": {},
-                "num_comments": 0,
-                "learning_language": "de",
-                "from_language": "en"
-            },
-            "newWords": [],
-            "progressUpdates": [],
-            "sentenceId": "35df304eeebec0c51c286dbd36567505",
-            "challengeGeneratorIdentifier": {
-                "specificType": "reverse_tap",
-                "generatorId": "35df304eeebec0c51c286dbd36567505"
-            },
-            "indicatorType": "HARD_CHALLENGE"
-        },
-        {
-            "prompt": "Bread and coffee, please!",
-            "correctSolutions": [
-                "Brot und Kaffee, bitte!"
-            ],
-            "compactTranslations": [
-                "Brot und Kaffee, bitte!",
-                "Brot und [einen/] Kaffee, bitte!"
-            ],
-            "correctTokens": [
-                "Brot",
-                "und",
-                "Kaffee",
-                "bitte"
-            ],
-            "wrongTokens": [
-                "Bier",
-                "oder",
-                "danke",
-                "hallo"
-            ],
-            "choices": [
-                {
-                    "text": "Brot",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/448318d5a6dbbb1c306503362347236e"
-                },
-                {
-                    "text": "und",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/3880a689de37c81b00acb082a1f6170b"
-                },
-                {
-                    "text": "Kaffee",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/de3790e61555fbde998afa33a5615c7e"
-                },
-                {
-                    "text": "bitte",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/71a7d8cd42b03303cf468947e82091f9"
-                },
-                {
-                    "text": "Bier",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/6b688d001d1d658af064e8a61f3154e7"
-                },
-                {
-                    "text": "oder",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/d6227bee34982f5af45ff911d68d059b"
-                },
-                {
-                    "text": "danke",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/dba6f033397b9382ae38c6c0206eb60e"
-                },
-                {
-                    "text": "hallo",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/9d4bfea86e6b7e7fa9e8bba08f4c8998"
-                }
-            ],
-            "correctIndices": [
-                0,
-                1,
-                2,
-                3
-            ],
-            "sourceLanguage": "en",
-            "targetLanguage": "de",
-            "solutionTts": "https://d1vq87e9lcf771.cloudfront.net/eddyde/63f2aac175a78dc388fffd2738cc8391",
-            "grader": {
-                "version": 0,
-                "vertices": [
-                    [
-                        {
-                            "to": 1,
-                            "lenient": ""
-                        }
-                    ],
-                    [
-                        {
-                            "to": 2,
-                            "lenient": "brot",
-                            "orig": "Brot"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 3,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 4,
-                            "lenient": "und"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 5,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 6,
-                            "lenient": ""
-                        },
-                        {
-                            "to": 9,
-                            "lenient": "einen"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 7,
-                            "lenient": "kaffee",
-                            "orig": "Kaffee,"
-                        },
-                        {
-                            "to": 7,
-                            "lenient": "kaffe",
-                            "type": "typo",
-                            "orig": "Kaffee,"
-                        },
-                        {
-                            "to": 7,
-                            "lenient": "kafee",
-                            "type": "typo",
-                            "orig": "Kaffee,"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 8,
-                            "lenient": " "
-                        }
-                    ],
-                    [
-                        {
-                            "to": 10,
-                            "lenient": "bitte",
-                            "orig": "bitte!"
-                        }
-                    ],
-                    [
-                        {
-                            "to": 6,
-                            "lenient": " "
-                        }
-                    ],
-                    []
-                ],
-                "language": "de",
-                "whitespaceDelimited": true
-            },
-            "taggedKcIds": [
-                {
-                    "legacyId": "32c1b5f5651424003185cae76c27588f",
-                    "kcTypeStr": "lex"
-                },
-                {
-                    "legacyId": "e0fc2007688b591de1acf8374c9ce38e",
-                    "kcTypeStr": "lex"
-                },
-                {
-                    "legacyId": "e25a8f420cb9576afd58b942b6294be5",
-                    "kcTypeStr": "lex"
-                },
-                {
-                    "legacyId": "b6744f58825816aa3c3367e6f79ddff1",
-                    "kcTypeStr": "lex"
-                }
-            ],
-            "tokens": [
-                {
-                    "value": "Bread",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "Brot"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": " "
-                },
-                {
-                    "value": "and",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "und"
-                                }
-                            ],
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "um zu"
-                                }
-                            ],
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "um"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": " "
-                },
-                {
-                    "value": "coffee",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "Kaffee"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": ","
-                },
-                {
-                    "value": " "
-                },
-                {
-                    "value": "please",
-                    "hintTable": {
-                        "headers": [],
-                        "rows": [
-                            [
-                                {
-                                    "colspan": 1,
-                                    "hint": "bitte"
-                                }
-                            ]
-                        ]
-                    }
-                },
-                {
-                    "value": "!"
-                }
-            ],
-            "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/cd451564ce35f7f291f00287ac0048a1",
-            "character": {
-                "url": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
-                "image": {
-                    "pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
-                },
-                "gender": "male",
-                "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_CORRECT_Cropped_Cheer.json",
-                "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_INCORRECT_Cropped.json",
-                "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_IDLE_Cropped.json",
-                "name": "EDDY",
-                "avatarIconImage": {
-                    "pdf": "https://simg-ssl.duolingo.com/world-characters/avatars/eddy_avatar_icon.pdf",
-                    "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/eddy_avatar_icon.svg"
-                }
-            },
-            "isSpeakerUniversal": false,
-            "type": "translate",
-            "id": "aaaed46faba240aaa3cdc7c72a661f1e",
-            "challengeResponseTrackingProperties": {
-                "best_solution": "Brot und Kaffee, bitte!",
-                "level_session_index": 4,
-                "birdbrain_target": 0.8,
-                "cefr_subsection": "A1.0",
-                "num_tap_distractors": 4.0,
-                "is_v2": true,
-                "predicted_time_taken": 11757.919357869645,
-                "path_uses_unit_vision": false,
-                "cefr_level": "CEFR_A1",
-                "is_adaptive": true,
-                "grading_graph_size": 525,
-                "birdbrain_source": "birdbrain_v2",
-                "num_correct_answer_tokens": 4.0,
-                "generation_timestamp": 1703089787190,
-                "session_type": "lexeme_skill_level_practice",
-                "birdbrain_probability": 0.8572771,
-                "content_length": 23.0,
-                "tagged_kc_ids": [
-                    "32c1b5f5651424003185cae76c27588f",
-                    "e0fc2007688b591de1acf8374c9ce38e",
-                    "e25a8f420cb9576afd58b942b6294be5",
-                    "b6744f58825816aa3c3367e6f79ddff1"
-                ]
-            },
-            "metadata": {
-                "challenge_construction_insights": {
-                    "birdbrain_probability": 0.8572771,
-                    "birdbrain_target": 0.8,
-                    "birdbrain_source": "birdbrain_v2",
-                    "num_tap_distractors": 4,
-                    "content_length": 23,
-                    "best_solution": "Brot und Kaffee, bitte!",
-                    "num_correct_answer_tokens": 4,
-                    "is_adaptive": true,
-                    "predicted_time_taken": 11757.919357869645,
-                    "cefr_level": "CEFR_A1",
-                    "cefr_subsection": "A1.0"
-                },
-                "highlight": [],
-                "indicator_type": {
-                    "name": "HARD_CHALLENGE"
-                },
-                "sentence": "Bread and coffee, please!",
-                "solution_key": "d0beb5874f47dd82646dbce9c4efc436",
-                "source_language": "en",
-                "target_language": "de",
-                "tokens": [
-                    "Brot",
-                    "und",
-                    "Kaffee",
-                    "bitte"
-                ],
-                "translation": "Brot und Kaffee, bitte!",
-                "wrong_tokens": [
-                    "Bier",
-                    "oder",
-                    "danke",
-                    "hallo"
-                ],
-                "text": "Bread and coffee, please!",
-                "specific_type": "reverse_tap",
-                "lexeme_ids_to_update": [
-                    "32c1b5f5651424003185cae76c27588f",
-                    "e0fc2007688b591de1acf8374c9ce38e",
-                    "e25a8f420cb9576afd58b942b6294be5",
-                    "b6744f58825816aa3c3367e6f79ddff1"
-                ],
-                "type": "translate",
-                "lexemes_to_update": [
-                    "32c1b5f5651424003185cae76c27588f",
-                    "e0fc2007688b591de1acf8374c9ce38e",
-                    "e25a8f420cb9576afd58b942b6294be5",
-                    "b6744f58825816aa3c3367e6f79ddff1"
-                ],
-                "generic_lexeme_map": {},
-                "num_comments": 0,
-                "learning_language": "de",
-                "from_language": "en"
-            },
-            "newWords": [],
-            "progressUpdates": [],
-            "sentenceId": "d0beb5874f47dd82646dbce9c4efc436",
-            "challengeGeneratorIdentifier": {
-                "specificType": "reverse_tap",
-                "generatorId": "d0beb5874f47dd82646dbce9c4efc436"
-            },
-            "indicatorType": "HARD_CHALLENGE"
-        },
-        {
-            "choices": [
-                {
-                    "text": "na",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/a9a084f701f7a220cb3438026a14cc98"
-                },
-                {
-                    "text": "wa",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/0ee89021c9217ae2b60962b2ed24678f"
-                },
-                {
-                    "text": "la",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/4207ae047490ba65e98a250bc1e1bbf6"
-                },
-                {
-                    "text": "ra",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef"
-                }
-            ],
-            "correctIndex": 3,
-            "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef",
-            "type": "selectTranscription",
-            "id": "607f25cb4490474db124ecfa03b17e1b",
-            "challengeResponseTrackingProperties": {
-                "level_session_index": 4,
-                "birdbrain_target": 0.8,
-                "cefr_subsection": "A1.0",
-                "is_v2": true,
-                "predicted_time_taken": 4790.50852272497,
-                "path_uses_unit_vision": false,
-                "cefr_level": "CEFR_A1",
-                "is_adaptive": false,
-                "birdbrain_source": "birdbrain_v2",
-                "generation_timestamp": 1703089787190,
-                "session_type": "lexeme_skill_level_practice",
-                "birdbrain_probability": 0.8875834,
-                "content_length": 2.0,
-                "tagged_kc_ids": [
-                    "48cd618a2cfd982bfe3cef8d76e5c230"
-                ]
-            },
-            "metadata": {
-                "challenge_construction_insights": {
-                    "birdbrain_probability": 0.8875834,
-                    "birdbrain_target": 0.8,
-                    "birdbrain_source": "birdbrain_v2",
-                    "content_length": 2,
-                    "is_adaptive": false,
-                    "predicted_time_taken": 4790.50852272497,
-                    "cefr_level": "CEFR_A1",
-                    "cefr_subsection": "A1.0"
-                },
-                "correct_index": 3,
-                "indicator_type": {
-                    "name": "EASY_CHALLENGE"
-                },
-                "choices": [
-                    {
-                        "text": "na",
-                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/a9a084f701f7a220cb3438026a14cc98"
-                    },
-                    {
-                        "text": "wa",
-                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/0ee89021c9217ae2b60962b2ed24678f"
-                    },
-                    {
-                        "text": "la",
-                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/4207ae047490ba65e98a250bc1e1bbf6"
-                    },
-                    {
-                        "text": "ra",
-                        "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef"
-                    }
-                ],
-                "solution_key": "48cd618a2cfd982bfe3cef8d76e5c230",
-                "tts": "https://d1vq87e9lcf771.cloudfront.net/de_v2/aa6084d1055ab65bb3a7a893294731ef",
-                "source_language": "de",
-                "specific_type": "select_transcription",
-                "lexeme_ids_to_update": [
-                    "48cd618a2cfd982bfe3cef8d76e5c230"
-                ],
-                "learning_language": "de",
-                "type": "select_transcription",
-                "lexemes_to_update": [
-                    "48cd618a2cfd982bfe3cef8d76e5c230"
-                ],
-                "generic_lexeme_map": {},
-                "from_language": "en"
-            },
-            "progressUpdates": [],
-            "challengeGeneratorIdentifier": {
-                "specificType": "select_transcription",
-                "generatorId": "6c231197faae16f81e2295762878b629"
-            },
-            "indicatorType": "EASY_CHALLENGE"
-        },
-        {
-            "prompt": "bread",
-            "choices": [
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
-                    "phrase": "Brot",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/15f80cfe6a8ee8e7fa7f5d3c6f1709e0",
-                    "hint": "bread"
-                },
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
-                    "phrase": "Wasser",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/e245b0017d6bf8942ae7df109de7a3e9",
-                    "hint": "water"
-                },
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
-                    "phrase": "Tee",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/2858cf09686f43753dedb8f29984388c",
-                    "hint": "tea"
-                }
-            ],
-            "correctIndex": 0,
-            "type": "select",
-            "id": "58149c63e9b44e41b5f0625e2031b864",
-            "challengeResponseTrackingProperties": {
-                "path_uses_unit_vision": false,
-                "level_session_index": 4,
-                "generation_timestamp": 1703089787190,
-                "session_type": "lexeme_skill_level_practice",
-                "is_v2": true,
-                "tagged_kc_ids": [
-                    "32c1b5f5651424003185cae76c27588f"
-                ]
-            },
-            "metadata": {
-                "challenge_construction_insights": {},
-                "highlight": [],
-                "hint": "bread",
-                "phrase": "Brot",
-                "solution_key": "32c1b5f5651424003185cae76c27588f",
-                "source_language": "de",
-                "specific_type": "name_example",
-                "language": "de",
-                "lexeme_ids_to_update": [
-                    "32c1b5f5651424003185cae76c27588f"
-                ],
-                "type": "select",
-                "lexemes_to_update": [
-                    "32c1b5f5651424003185cae76c27588f"
-                ],
-                "generic_lexeme_map": {},
-                "num_comments": 0,
-                "learning_language": "de",
-                "from_language": "en"
-            },
-            "newWords": [],
-            "progressUpdates": [],
-            "challengeGeneratorIdentifier": {
-                "specificType": "name_example",
-                "generatorId": "32c1b5f5651424003185cae76c27588f"
-            }
-        },
-        {
-            "prompt": "coffee",
-            "choices": [
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
-                    "phrase": "Wasser",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/e245b0017d6bf8942ae7df109de7a3e9",
-                    "hint": "water"
-                },
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/6fd84b8a838c43c4a84b44b08b10177e",
-                    "phrase": "Kaffee",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6fd84b8a838c43c4a84b44b08b10177e",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/5beb8054de20d70eba4ca0e8a928eca4",
-                    "hint": "coffee"
-                },
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/645fa42dcea02c7e2970a1285e321562",
-                    "phrase": "Milch",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/645fa42dcea02c7e2970a1285e321562",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/8652a17aee97beb79ba4885e74017fdd",
-                    "hint": "milk"
-                }
-            ],
-            "correctIndex": 1,
-            "type": "select",
-            "id": "21859faa67a847dbbae451dee1cb1389",
-            "challengeResponseTrackingProperties": {
-                "path_uses_unit_vision": false,
-                "level_session_index": 4,
-                "generation_timestamp": 1703089787190,
-                "session_type": "lexeme_skill_level_practice",
-                "is_v2": true,
-                "tagged_kc_ids": [
-                    "e25a8f420cb9576afd58b942b6294be5"
-                ]
-            },
-            "metadata": {
-                "challenge_construction_insights": {},
-                "highlight": [],
-                "hint": "coffee",
-                "phrase": "Kaffee",
-                "solution_key": "e25a8f420cb9576afd58b942b6294be5",
-                "source_language": "de",
-                "specific_type": "name_example",
-                "language": "de",
-                "lexeme_ids_to_update": [
-                    "e25a8f420cb9576afd58b942b6294be5"
-                ],
-                "type": "select",
-                "lexemes_to_update": [
-                    "e25a8f420cb9576afd58b942b6294be5"
-                ],
-                "generic_lexeme_map": {},
-                "num_comments": 0,
-                "learning_language": "de",
-                "from_language": "en"
-            },
-            "newWords": [],
-            "progressUpdates": [],
-            "challengeGeneratorIdentifier": {
-                "specificType": "name_example",
-                "generatorId": "e25a8f420cb9576afd58b942b6294be5"
-            }
-        },
-        {
-            "prompt": "tea",
-            "choices": [
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
-                    "phrase": "Brot",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/c61a359a01c01fc19bbe6a21592db53b",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/15f80cfe6a8ee8e7fa7f5d3c6f1709e0",
-                    "hint": "bread"
-                },
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
-                    "phrase": "Tee",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/18a521f1507cb86689faa5b2e8277703",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/mila/a3aa8ed8c91b2826a10017e4edc795ef",
-                    "hint": "tea"
-                },
-                {
-                    "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
-                    "phrase": "Wasser",
-                    "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
-                    "tts": "https://d1vq87e9lcf771.cloudfront.net/paul/e245b0017d6bf8942ae7df109de7a3e9",
-                    "hint": "water"
-                }
-            ],
-            "correctIndex": 1,
-            "type": "select",
-            "id": "b8c1f159c01c4234a2adc9226a607dc3",
-            "challengeResponseTrackingProperties": {
-                "path_uses_unit_vision": false,
-                "level_session_index": 4,
-                "generation_timestamp": 1703089787190,
-                "session_type": "lexeme_skill_level_practice",
-                "is_v2": true,
-                "tagged_kc_ids": [
-                    "209e587c7df53af46283720b1067740f"
-                ]
-            },
-            "metadata": {
-                "challenge_construction_insights": {},
-                "highlight": [],
-                "hint": "tea",
-                "phrase": "Tee",
-                "solution_key": "209e587c7df53af46283720b1067740f",
-                "source_language": "de",
-                "specific_type": "name_example",
-                "language": "de",
-                "lexeme_ids_to_update": [
-                    "209e587c7df53af46283720b1067740f"
-                ],
-                "type": "select",
-                "lexemes_to_update": [
-                    "209e587c7df53af46283720b1067740f"
-                ],
-                "generic_lexeme_map": {},
-                "num_comments": 0,
-                "learning_language": "de",
-                "from_language": "en"
-            },
-            "newWords": [],
-            "progressUpdates": [],
-            "challengeGeneratorIdentifier": {
-                "specificType": "name_example",
-                "generatorId": "209e587c7df53af46283720b1067740f"
-            }
-        }
-    ],
+    "adaptiveChallenges": [],
     "easierAdaptiveChallenges": [
         {
             "prompt": "Wasser, bitte! Danke!",
