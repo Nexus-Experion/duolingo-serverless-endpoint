@@ -1,11 +1,8 @@
 {
     "section": {
       "name": "Section 1: Rookie",
-      "completedChapters": 7,
-      "completedUnits": 2,
       "totalChaptersInUnit": 9,
-      "totalUnitsInSection": 5,
-      "currentLesson": 3,
+      "totalUnitsInSection": 7,
       "units": [
         {
           "name": "Unit 1",
@@ -14,27 +11,27 @@
         }, {
           "name": "Unit 2",
           "description": "Describe places, tell time",
-          "chapters": ["Chapter m1", "Chapter m2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
+          "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
         }, {
           "name": "Unit 3",
           "description": "Describe what people do, make comparisons",
-          "chapters": ["Chapter 31", "Chapter m2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
+          "chapters": ["Chapter 31", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
         }, {
           "name": "Unit 4",
           "description": "Use the future tense, talk about days",
-          "chapters": ["Chapter m1", "Chapter m2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
+          "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
         }, {
           "name": "Unit 5",
           "description": "Discuss weather, describe relationships",
-          "chapters": ["Chapter m1", "Chapter m2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
+          "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
         }, {
           "name": "Unit 6",
           "description": "Discuss food, talk about the past",
-          "chapters": ["Chapter m1", "Chapter m2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
+          "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
         }, {
           "name": "Unit 7",
           "description": "Discuss nature, describe people",
-          "chapters": ["Chapter m1", "Chapter m2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
+          "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"]
         }
       ]
     }
