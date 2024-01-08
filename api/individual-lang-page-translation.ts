@@ -4,7 +4,8 @@ import spanishData from '../individual-lang-page-jsons/spanish.json' assert {typ
 import frenchData from '../individual-lang-page-jsons/french.json' assert {type:'json'};
 import japaneseData from '../individual-lang-page-jsons/japanese.json' assert {type:'json'};
 import englishData from '../individual-lang-page-jsons/english.json' assert {type:'json'};
-
+import malayalamData from '../individual-lang-page-jsons/malayalam.json' assert {type:'json'};
+import hindiData from '../individual-lang-page-jsons/hindi.json' assert {type:'json'};
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
     try {
@@ -14,6 +15,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
             case 'fr': return res.json(frenchData)
             case 'ja': return res.json(japaneseData)
             case 'en': return res.json(englishData)
+            case 'ma': return res.json(malayalamData)
+            case 'hi': return res.json(hindiData)
             default: return res.status(400).send({
                 message:'No translation available. Sorry!'
             })
