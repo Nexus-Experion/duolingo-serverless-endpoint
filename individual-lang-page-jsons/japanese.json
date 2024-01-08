@@ -1,0 +1,47 @@
+{
+    "siteLan": "ウェブサイトの言語：スペイン語",
+    "heading": "学ぶ ",
+    "lang":{
+      "es":"スペイン語",
+      "de":"ドイツ語",
+      "ja": "日本語",
+      "fr":"フランス語"
+    },
+    "head2": "たった5分で。無料。",
+    "flag":{
+        "de":"../assets/svg/country-flags/de-flag.svg",
+        "ja":"../assets/svg/country-flags/ja-flag.svg",
+        "fr":"../assets/svg/country-flags/fr-flag.svg",
+        "es":"../assets/svg/country-flags/es-flag.svg"
+      },
+    "startLearning": "学習を開始",
+    "alreadyHave": "すでにアカウントをお持ちですか",
+    "fireHead": "効果的で効率的",
+    "fireLinkPara": "最新の研究",
+    "tickHead": "カスタマイズされた学習",
+    "crownHead": "モチベーションを維持",
+    "girlHead": "楽しんで！",
+    "apple": "ダウンロード：",
+    "playStore": "ダウンロード：",
+    "secDivHeading": "オンラインでスペイン語を学ぶための世界で最も人気のある方法",
+    "paraOne": "楽しいレッスンで、たった5分の毎日でスペイン語を学びましょう。",
+    "paraTwo": "基礎から始める初心者でも、読み書きや会話の練習がしたい場合でも、",
+    "reference": "Duolingoの効果は科学的に証明されています",
+    "divThreeHead": "小さなスペイン語の授業。楽しく、効果的、無料。",
+    "firePara": "当社のコースは、効果的かつ効率的に読解力、聴解力、会話能力を教えます。ご覧ください",
+    "tickPara": "Lessonloredは人工知能と言語学のベストを組み合わせ、正確なレベルで正しいペースで学習するのに役立ちます。 !",
+    "crownPara": "楽しい機能、面白いチャレンジ、親しみやすいマスコットであるフクロウのデュオのリマインダーとともに、言語学習を習慣にすることは簡単です。",
+    "girlPara": "効果的な学習は退屈ではありません！エキサイティングな演習と遊び心のあるキャラクターで、毎日スキルを向上させましょう。",
+    "owlHead": "スーパーデュオリンゴで学習をブースト",
+    "superDuoPara": "Duolingoで言語を学ぶことは完全に無料ですが、Superでは広告を削除し、無料のレッスンをサポートすることができます。最初の2週間は無料です！",
+    "superDuoLink": "Super Duolingoについて詳しく",
+    "secthreehead": "移動中に学ぶ",
+    "bagOwlPara": "iPhoneとAndroid向けのアプリを使用して、休憩や通勤時間をより生産的に過ごしましょう。ダウンロードして、AppleとGoogleが最高の賞を授与した理由を知ってください。",
+    "computerHead": "学校向けDuolingo",
+    "computerPara": "Duolingoアプリを使って、学校内外で言語を学ぶ学生をサポートする無料の教育ツール。",
+    "computerRef": "あなたの教室にDuolingoを持ち込む",
+    "learningaButtonText":"始める",
+    "loginButtonText":"ログイン",
+    "aboutUs": "私たちについて"
+  }
+  

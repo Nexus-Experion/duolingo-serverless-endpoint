@@ -1,0 +1,47 @@
+{
+    "siteLan": "Idioma del sitio web: Español",
+    "heading": "Aprende ",
+    "lang":{
+      "es":"español",
+      "de":"alemán",
+      "ja": "japonés",
+      "fr":"francés"
+    },
+    "head2": "en solo 5 minutos al día. Gratis.",
+    "flag":{
+        "de":"../assets/svg/country-flags/de-flag.svg",
+        "ja":"../assets/svg/country-flags/ja-flag.svg",
+        "fr":"../assets/svg/country-flags/fr-flag.svg",
+        "es":"../assets/svg/country-flags/es-flag.svg"
+      },
+    "startLearning": "Comienza a aprender",
+    "alreadyHave": "YA TENGO UNA CUENTA",
+    "fireHead": "Efectivo y eficiente",
+    "fireLinkPara": "última investigación",
+    "tickHead": "Aprendizaje personalizado",
+    "crownHead": "Mantente motivado",
+    "girlHead": "¡Diviértete mucho!",
+    "apple": "Descarga en ",
+    "playStore": "Descárgalo en ",
+    "secDivHeading": "La forma más popular en el mundo para aprender español en línea",
+    "paraOne": "Aprende español en solo 5 minutos al día con nuestras lecciones lúdicas.",
+    "paraTwo": "Ya sea que estés comenzando como principiante con los conceptos básicos o quieras practicar tu lectura, escritura y habla,",
+    "reference": "La eficacia de Duolingo está científicamente probada",
+    "divThreeHead": "Pequeña clase de español. Divertido, efectivo y 100 % gratis.",
+    "firePara": "Nuestros cursos enseñan habilidades de lectura, escucha y habla de manera efectiva y eficiente. Echa un vistazo a nuestros",
+    "tickPara": "Lessonlored combina lo mejor de la inteligencia artificial y la lingüística y te ayuda a aprender exactamente en el nivel correcto y al ritmo correcto. !",
+    "crownPara": "Con funciones lúdicas, desafíos divertidos y recordatorios de nuestra amigable mascota Duo, el búho, te resultará fácil convertir el aprendizaje de idiomas en un hábito.",
+    "girlPara": "¡El aprendizaje efectivo no tiene por qué ser aburrido! Desarrolla tus habilidades todos los días con ejercicios emocionantes y personajes juguetones.",
+    "owlHead": "Potencia tu aprendizaje con Super Duolingo",
+    "superDuoPara": "Aprender un idioma en Duolingo es completamente gratuito, pero puedes eliminar anuncios y apoyar lecciones gratuitas con Super. ¡Las primeras 2 semanas son gratis!",
+    "superDuoLink": "Obtén más información sobre Super Duolingo",
+    "secthreehead": "Aprende sobre la marcha",
+    "bagOwlPara": "Haz que tus descansos y viajes al trabajo sean más productivos con nuestras aplicaciones para iPhone y Android. Descárgalas y descubre por qué Apple y Google nos han otorgado sus máximos galardones.",
+    "computerHead": "Duolingo para escuelas",
+    "computerPara": "Herramientas educativas gratuitas que ayudan a los estudiantes a aprender idiomas a través de la aplicación de Duolingo, tanto dentro como fuera del aula.",
+    "computerRef": "Lleva Duolingo a tu aula",
+    "learningaButtonText":"Empezar",
+    "loginButtonText":"Inicio de sesión",
+    "aboutUs": "Sobre nosotros"
+  }
+  

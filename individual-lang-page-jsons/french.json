@@ -1,0 +1,47 @@
+{
+    "siteLan": "Langue du site web : Espagnol",
+    "heading": "Apprendre ",
+    "lang":{
+      "es":"espagnol",
+      "de":"allemand",
+      "ja": "japonais",
+      "fr":"français"
+    },
+    "head2": "en seulement 5 minutes par jour. Gratuitement.",
+    "flag":{
+        "de":"../assets/svg/country-flags/de-flag.svg",
+        "ja":"../assets/svg/country-flags/ja-flag.svg",
+        "fr":"../assets/svg/country-flags/fr-flag.svg",
+        "es":"../assets/svg/country-flags/es-flag.svg"
+      },
+    "startLearning": "Commencer à apprendre",
+    "alreadyHave": "J'AI DÉJÀ UN COMPTE",
+    "fireHead": "Efficace et efficient",
+    "fireLinkPara": "dernières recherches",
+    "tickHead": "Apprentissage personnalisé",
+    "crownHead": "Rester motivé",
+    "girlHead": "Amusez-vous beaucoup !",
+    "apple": "Téléchargez sur ",
+    "playStore": "Téléchargez-le sur ",
+    "secDivHeading": "La manière la plus populaire au monde d'apprendre l'espagnol en ligne",
+    "paraOne": "Apprenez l'espagnol en seulement 5 minutes par jour avec nos leçons ludiques.",
+    "paraTwo": "Que vous commenciez en tant que débutant avec les bases ou que vous souhaitiez pratiquer votre lecture, écriture et parole,",
+    "reference": "L'efficacité de Duolingo est scientifiquement prouvée",
+    "divThreeHead": "Petit cours d'espagnol. Amusant, efficace et 100 % gratuit.",
+    "firePara": "Nos cours enseignent efficacement et efficacement les compétences de lecture, d'écoute et de parole. Jetez un œil à nos",
+    "tickPara": "Lessonlored combine le meilleur de l'intelligence artificielle et de la linguistique et vous aide à apprendre exactement au bon niveau et au bon rythme. !",
+    "crownPara": "Avec des fonctionnalités ludiques, des défis amusants et des rappels de notre mascotte sympathique Duo, la chouette, il vous sera facile de transformer l'apprentissage des langues en une habitude.",
+    "girlPara": "L'apprentissage efficace ne doit pas être ennuyeux ! Développez vos compétences chaque jour avec des exercices passionnants et des personnages ludiques.",
+    "owlHead": "Booster votre apprentissage avec Super Duolingo",
+    "superDuoPara": "Apprendre une langue sur Duolingo est entièrement gratuit, mais vous pouvez supprimer les publicités et soutenir les cours gratuits avec Super. Les deux premières semaines sont gratuites !",
+    "superDuoLink": "En savoir plus sur Super Duolingo",
+    "secthreehead": "Apprendre en déplacement",
+    "bagOwlPara": "Rendez vos pauses et vos trajets vers le travail plus productifs avec nos applications iPhone et Android. Téléchargez-les et découvrez pourquoi Apple et Google nous ont attribué leurs plus hautes récompenses.",
+    "computerHead": "Duolingo pour les écoles",
+    "computerPara": "Outils éducatifs gratuits pour aider les élèves à apprendre des langues à travers l'application Duolingo, à l'intérieur et à l'extérieur de la salle de classe.",
+    "computerRef": "Amenez Duolingo dans votre salle de classe",
+    "learningaButtonText":"Commencer",
+    "loginButtonText":"Connexion",
+    "aboutUs": "À propos de nous"
+  }
+  
