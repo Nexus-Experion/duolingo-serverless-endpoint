@@ -7,14 +7,14 @@
       "de": "जर्मन",
       "ja": "जापानी"
     },
-    "head2": "बस 5 मिनट में। मुफ्त।",
+    "head2": " बस 5 मिनट में। मुफ्त।",
     "flag": {
       "de": "../assets/svg/country-flags/de-flag.svg",
       "ja": "../assets/svg/country-flags/ja-flag.svg",
       "fr": "../assets/svg/country-flags/fr-flag.svg",
       "es": "../assets/svg/country-flags/es-flag.svg"
     },
-    "startLearning": "सीखना शुरू करें",
+    "startLearning": " सीखना शुरू करें",
     "alreadyHave": "मेरे पास पहले से ही एक खाता है",
     "secDivHeading": "ऑनलाइन स्पैनिश सीखने का विश्व का सबसे लोकप्रिय तरीका",
     "paraOne": "हमारे गेम जैसे पाठ्यक्रमों के साथ सिर्फ 5 मिनट में स्पैनिश सीखें।",
