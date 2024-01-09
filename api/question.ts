@@ -1,8 +1,8 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import germanData from '../json-langs/german.json' assert {type: 'json'};
-import spanishData from '../json-langs/spanish.json' assert {type: 'json'};
-import frenchData from '../json-langs/french.json' assert {type:'json'};
-import japaneseData from '../json-langs/japanese.json' assert {type:'json'};
+import germanData from '../questionaire-json/german.json' assert {type: 'json'};
+import spanishData from '../questionaire-json/spanish.json' assert {type: 'json'};
+import frenchData from '../questionaire-json/french.json' assert {type:'json'};
+import japaneseData from '../questionaire-json/japanese.json' assert {type:'json'};
 
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
